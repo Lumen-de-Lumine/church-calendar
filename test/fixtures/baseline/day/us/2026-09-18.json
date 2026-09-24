@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-18",
+  "season": "ordinary",
+  "season_week": 24,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Friday of the 24th Week in Ordinary Time",
+      "colour": "green",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    }
+  ],
+  "vespers": null,
+  "weekday": "friday"
+}

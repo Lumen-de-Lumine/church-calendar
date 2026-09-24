@@ -1,0 +1,26 @@
+{
+  "date": "2026-12-29",
+  "season": "christmas",
+  "season_week": 1,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "5th Day within the Octave of the Nativity of the Lord [Christmas]",
+      "colour": "white",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "christmas_octave_5"
+    },
+    {
+      "title": "Saint Thomas Becket, Bishop and Martyr",
+      "colour": "white",
+      "rank": "commemoration",
+      "rank_num": 4,
+      "id": "becket"
+    }
+  ],
+  "vespers": null,
+  "weekday": "tuesday"
+}

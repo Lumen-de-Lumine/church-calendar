@@ -1,0 +1,19 @@
+{
+  "date": "2026-06-29",
+  "season": "ordinary",
+  "season_week": 13,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Saints Peter and Paul, Apostles",
+      "colour": "red",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "peter_paul"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}

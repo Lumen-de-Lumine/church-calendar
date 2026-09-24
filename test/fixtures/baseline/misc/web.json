@@ -1,0 +1,93 @@
+{
+  "note": "HTML markup parity is explicitly NOT required (see docs/ARCHITECTURE.md); these are drift canaries.",
+  "entries": [
+    {
+      "url": "/",
+      "status": 200,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 1539,
+      "sha256": "d62d6433ba4cbf0ffe68f4458e7294d3ecc13e8eb7ed9b6f439e6e663ff78f17"
+    },
+    {
+      "url": "/browse",
+      "status": 302,
+      "content_type": "text/html",
+      "location": "/browse/default",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "url": "/browse/us",
+      "status": 200,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 13014,
+      "sha256": "010cb1bbff87b0b39ce0bc0095279fa815fda11a5190231825d56216af723fdb"
+    },
+    {
+      "url": "/browse/us/2026",
+      "status": 302,
+      "content_type": "text/html",
+      "location": "/browse/us/2026/1",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "url": "/browse/us/2026/9",
+      "status": 200,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 11006,
+      "sha256": "0c63105efa7e59c57fa0ffac994f57ea1043858b2bb5eae5d60eac90eb982303"
+    },
+    {
+      "url": "/browse/unknown",
+      "status": 404,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "url": "/browse/us/1900/1",
+      "status": 400,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "url": "/api-doc",
+      "status": 200,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 10562,
+      "sha256": "58964813ef3174e2f8b1578c8913999e6367b54b975d075c0620615010f012f4"
+    },
+    {
+      "url": "/about",
+      "status": 200,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 2075,
+      "sha256": "e3a6d5eb319907228e768ed4ca5ec2fef423e518b179bffa7569fd52824cfc33"
+    },
+    {
+      "url": "/style.css",
+      "status": 200,
+      "content_type": "text/css",
+      "location": null,
+      "bytes": 473,
+      "sha256": "e0bfb0d5735ca009dc67d4e423e9dcf406a9dbae13ffc61bded30045286ebf25"
+    },
+    {
+      "url": "/swagger.yml",
+      "status": 200,
+      "content_type": "text/html",
+      "location": null,
+      "bytes": 8516,
+      "sha256": "cb3ab4f59f22e4ab2461784bb9703405eeb412a12a1cca06e39be745f06819cf"
+    }
+  ]
+}

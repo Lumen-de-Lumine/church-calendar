@@ -1,0 +1,666 @@
+[
+  {
+    "date": "2026-04-01",
+    "season": "lent",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of Holy Week",
+        "colour": "violet",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "lent_holy_wednesday"
+      }
+    ],
+    "vespers": {
+      "title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+      "colour": "violet",
+      "rank": "Easter triduum",
+      "rank_num": 1.1,
+      "id": "holy_thursday"
+    },
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-04-02",
+    "season": "lent",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+        "colour": "violet",
+        "rank": "Easter triduum",
+        "rank_num": 1.1,
+        "id": "holy_thursday"
+      },
+      {
+        "title": "Thursday of the Lord’s Supper: At the Evening Mass",
+        "colour": "violet",
+        "rank": "Easter triduum",
+        "rank_num": 1.1,
+        "id": "holy_thursday_evening"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-04-03",
+    "season": "lent",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the Passion of the Lord [Good Friday]",
+        "colour": "red",
+        "rank": "Easter triduum",
+        "rank_num": 1.1,
+        "id": "good_friday"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-04-04",
+    "season": "lent",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Holy Saturday",
+        "colour": "violet",
+        "rank": "Easter triduum",
+        "rank_num": 1.1,
+        "id": "holy_saturday"
+      },
+      {
+        "title": "Easter Sunday of the Resurrection of the Lord: The Easter Vigil in the Holy Night",
+        "colour": "white",
+        "rank": "Easter triduum",
+        "rank_num": 1.1,
+        "id": "easter_sunday_vigil"
+      }
+    ],
+    "vespers": {
+      "title": "Easter Sunday of the Resurrection of the Lord",
+      "colour": "white",
+      "rank": "Easter triduum",
+      "rank_num": 1.1,
+      "id": "easter_sunday"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-04-05",
+    "season": "easter",
+    "season_week": 1,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Easter Sunday of the Resurrection of the Lord",
+        "colour": "white",
+        "rank": "Easter triduum",
+        "rank_num": 1.1,
+        "id": "easter_sunday"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-04-06",
+    "season": "easter",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday Within the Octave of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-04-07",
+    "season": "easter",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday Within the Octave of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-04-08",
+    "season": "easter",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday Within the Octave of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-04-09",
+    "season": "easter",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday Within the Octave of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-04-10",
+    "season": "easter",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday Within the Octave of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-04-11",
+    "season": "easter",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday Within the Octave of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-04-12",
+    "season": "easter",
+    "season_week": 2,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "2nd Sunday of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-04-13",
+    "season": "easter",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 2nd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Martin I, Pope and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "martin_i"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-04-14",
+    "season": "easter",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 2nd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-04-15",
+    "season": "easter",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 2nd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-04-16",
+    "season": "easter",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 2nd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-04-17",
+    "season": "easter",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 2nd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-04-18",
+    "season": "easter",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 2nd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": {
+      "title": "3rd Sunday of Easter",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-04-19",
+    "season": "easter",
+    "season_week": 3,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "3rd Sunday of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-04-20",
+    "season": "easter",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 3rd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-04-21",
+    "season": "easter",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 3rd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Anselm, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "anselm"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-04-22",
+    "season": "easter",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 3rd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-04-23",
+    "season": "easter",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 3rd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint George, Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "george"
+      },
+      {
+        "title": "Saint Adalbert, Bishop and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "adalbert"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-04-24",
+    "season": "easter",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 3rd week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Fidelis of Sigmaringen, Priest and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "fidelis"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-04-25",
+    "season": "easter",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Mark, Evangelist",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "mark"
+      }
+    ],
+    "vespers": {
+      "title": "4th Sunday of Easter",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-04-26",
+    "season": "easter",
+    "season_week": 4,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "4th Sunday of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-04-27",
+    "season": "easter",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 4th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-04-28",
+    "season": "easter",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 4th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Peter Chanel, Priest and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "peter_chanel"
+      },
+      {
+        "title": "Saint Louis Grignion de Montfort, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "de_montfort"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-04-29",
+    "season": "easter",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Catherine of Siena, Virgin and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "catherine_of_siena"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-04-30",
+    "season": "easter",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 4th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Pius V, Pope",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "pius_v"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  }
+]

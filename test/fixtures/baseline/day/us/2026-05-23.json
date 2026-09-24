@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-23",
+  "season": "easter",
+  "season_week": 7,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Saturday of the 7th week of Easter",
+      "colour": "white",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "Pentecost Sunday: At the Vigil Mass",
+      "colour": "red",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "pentecost_vigil"
+    }
+  ],
+  "vespers": {
+    "title": "Pentecost Sunday",
+    "colour": "red",
+    "rank": "Primary liturgical days",
+    "rank_num": 1.2,
+    "id": "pentecost"
+  },
+  "weekday": "saturday"
+}

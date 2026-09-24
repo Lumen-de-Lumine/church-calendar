@@ -1,0 +1,6020 @@
+{
+  "calendar": "us",
+  "lang": "en",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "note": "body is inlined only for small results; otherwise use `dates` joined against days/us/2026.json.gz.",
+  "entries": [
+    {
+      "q": "advent",
+      "url": "/api/v0/en/calendars/us/search?q=advent&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 3554,
+      "sha256": "185e89332d85287867e2f08a41962b68f941ad22a65845097dad8334710a7668",
+      "count": 13,
+      "dates": [
+        "2026-11-29",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-13",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-20"
+      ],
+      "titles": [
+        [
+          "1st Sunday of Advent"
+        ],
+        [
+          "Tuesday of the 1st Week of Advent"
+        ],
+        [
+          "Wednesday of the 1st Week of Advent"
+        ],
+        [
+          "Friday of the 1st Week of Advent"
+        ],
+        [
+          "Saturday of the 1st Week of Advent"
+        ],
+        [
+          "2nd Sunday of Advent"
+        ],
+        [
+          "Wednesday of the 2nd Week of Advent"
+        ],
+        [
+          "Thursday of the 2nd Week of Advent"
+        ],
+        [
+          "Friday of the 2nd Week of Advent"
+        ],
+        [
+          "3rd Sunday of Advent"
+        ],
+        [
+          "Tuesday of the 3rd Week of Advent"
+        ],
+        [
+          "Wednesday of the 3rd Week of Advent"
+        ],
+        [
+          "4th Sunday of Advent"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-11-29",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-01",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-02",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-04",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-12-05",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Saturday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "2nd Sunday of Advent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-12-06",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "2nd Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-09",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 2nd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-10",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Thursday of the 2nd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-12-11",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Friday of the 2nd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-12-13",
+          "season": "advent",
+          "season_week": 3,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "3rd Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-15",
+          "season": "advent",
+          "season_week": 3,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 3rd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-16",
+          "season": "advent",
+          "season_week": 3,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 3rd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-20",
+          "season": "advent",
+          "season_week": 4,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "4th Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        }
+      ]
+    },
+    {
+      "q": "33rd",
+      "url": "/api/v0/en/calendars/us/search?q=33rd&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 1357,
+      "sha256": "698df772602e6d8c80cb80d9401bd94cfbeed9048eb7c857b08274f27d31e8da",
+      "count": 5,
+      "dates": [
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20"
+      ],
+      "titles": [
+        [
+          "33rd Sunday in Ordinary Time"
+        ],
+        [
+          "Monday of the 33rd Week in Ordinary Time"
+        ],
+        [
+          "Wednesday of the 33rd Week in Ordinary Time"
+        ],
+        [
+          "Thursday of the 33rd Week in Ordinary Time"
+        ],
+        [
+          "Friday of the 33rd Week in Ordinary Time"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-11-15",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "33rd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-11-16",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Monday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-11-18",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-11-19",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-11-20",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        }
+      ]
+    },
+    {
+      "q": "thirty-third",
+      "url": "/api/v0/en/calendars/us/search?q=thirty-third&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 1357,
+      "sha256": "698df772602e6d8c80cb80d9401bd94cfbeed9048eb7c857b08274f27d31e8da",
+      "count": 5,
+      "dates": [
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20"
+      ],
+      "titles": [
+        [
+          "33rd Sunday in Ordinary Time"
+        ],
+        [
+          "Monday of the 33rd Week in Ordinary Time"
+        ],
+        [
+          "Wednesday of the 33rd Week in Ordinary Time"
+        ],
+        [
+          "Thursday of the 33rd Week in Ordinary Time"
+        ],
+        [
+          "Friday of the 33rd Week in Ordinary Time"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-11-15",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "33rd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-11-16",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Monday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-11-18",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-11-19",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-11-20",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 33rd Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        }
+      ]
+    },
+    {
+      "q": "Sunday",
+      "url": "/api/v0/en/calendars/us/search?q=Sunday&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 12540,
+      "sha256": "b7aec235f674637ecf8603b639e0e6a2729b09e3b254c6327c0aeaf063c30080",
+      "count": 46,
+      "dates": [
+        "2026-01-18",
+        "2026-01-25",
+        "2026-02-01",
+        "2026-02-08",
+        "2026-02-15",
+        "2026-02-22",
+        "2026-03-01",
+        "2026-03-08",
+        "2026-03-15",
+        "2026-03-22",
+        "2026-03-29",
+        "2026-04-04",
+        "2026-04-05",
+        "2026-04-12",
+        "2026-04-19",
+        "2026-04-26",
+        "2026-05-03",
+        "2026-05-10",
+        "2026-05-23",
+        "2026-05-24",
+        "2026-06-14",
+        "2026-06-21",
+        "2026-06-28",
+        "2026-07-05",
+        "2026-07-12",
+        "2026-07-19",
+        "2026-07-26",
+        "2026-08-02",
+        "2026-08-09",
+        "2026-08-16",
+        "2026-08-23",
+        "2026-08-30",
+        "2026-09-06",
+        "2026-09-13",
+        "2026-09-20",
+        "2026-09-27",
+        "2026-10-04",
+        "2026-10-11",
+        "2026-10-18",
+        "2026-10-25",
+        "2026-11-08",
+        "2026-11-15",
+        "2026-11-29",
+        "2026-12-06",
+        "2026-12-13",
+        "2026-12-20"
+      ],
+      "titles": [
+        [
+          "2nd Sunday in Ordinary Time"
+        ],
+        [
+          "3rd Sunday in Ordinary Time"
+        ],
+        [
+          "4th Sunday in Ordinary Time"
+        ],
+        [
+          "5th Sunday in Ordinary Time"
+        ],
+        [
+          "6th Sunday in Ordinary Time"
+        ],
+        [
+          "1st Sunday of Lent"
+        ],
+        [
+          "2nd Sunday of Lent"
+        ],
+        [
+          "3rd Sunday of Lent"
+        ],
+        [
+          "4th Sunday of Lent"
+        ],
+        [
+          "5th Sunday of Lent"
+        ],
+        [
+          "Palm Sunday of the Passion of the Lord"
+        ],
+        [
+          "Easter Sunday of the Resurrection of the Lord: The Easter Vigil in the Holy Night"
+        ],
+        [
+          "Easter Sunday of the Resurrection of the Lord"
+        ],
+        [
+          "2nd Sunday of Easter"
+        ],
+        [
+          "3rd Sunday of Easter"
+        ],
+        [
+          "4th Sunday of Easter"
+        ],
+        [
+          "5th Sunday of Easter"
+        ],
+        [
+          "6th Sunday of Easter"
+        ],
+        [
+          "Pentecost Sunday: At the Vigil Mass"
+        ],
+        [
+          "Pentecost Sunday"
+        ],
+        [
+          "11th Sunday in Ordinary Time"
+        ],
+        [
+          "12th Sunday in Ordinary Time"
+        ],
+        [
+          "13th Sunday in Ordinary Time"
+        ],
+        [
+          "14th Sunday in Ordinary Time"
+        ],
+        [
+          "15th Sunday in Ordinary Time"
+        ],
+        [
+          "16th Sunday in Ordinary Time"
+        ],
+        [
+          "17th Sunday in Ordinary Time"
+        ],
+        [
+          "18th Sunday in Ordinary Time"
+        ],
+        [
+          "19th Sunday in Ordinary Time"
+        ],
+        [
+          "20th Sunday in Ordinary Time"
+        ],
+        [
+          "21st Sunday in Ordinary Time"
+        ],
+        [
+          "22nd Sunday in Ordinary Time"
+        ],
+        [
+          "23rd Sunday in Ordinary Time"
+        ],
+        [
+          "24th Sunday in Ordinary Time"
+        ],
+        [
+          "25th Sunday in Ordinary Time"
+        ],
+        [
+          "26th Sunday in Ordinary Time"
+        ],
+        [
+          "27th Sunday in Ordinary Time"
+        ],
+        [
+          "28th Sunday in Ordinary Time"
+        ],
+        [
+          "29th Sunday in Ordinary Time"
+        ],
+        [
+          "30th Sunday in Ordinary Time"
+        ],
+        [
+          "32nd Sunday in Ordinary Time"
+        ],
+        [
+          "33rd Sunday in Ordinary Time"
+        ],
+        [
+          "1st Sunday of Advent"
+        ],
+        [
+          "2nd Sunday of Advent"
+        ],
+        [
+          "3rd Sunday of Advent"
+        ],
+        [
+          "4th Sunday of Advent"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-01-18",
+          "season": "ordinary",
+          "season_week": 2,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "2nd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-01-25",
+          "season": "ordinary",
+          "season_week": 3,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "3rd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-02-01",
+          "season": "ordinary",
+          "season_week": 4,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "4th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-02-08",
+          "season": "ordinary",
+          "season_week": 5,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "5th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-02-15",
+          "season": "ordinary",
+          "season_week": 6,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "6th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-02-22",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Lent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-03-01",
+          "season": "lent",
+          "season_week": 2,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "2nd Sunday of Lent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-03-08",
+          "season": "lent",
+          "season_week": 3,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "3rd Sunday of Lent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-03-15",
+          "season": "lent",
+          "season_week": 4,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "4th Sunday of Lent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-03-22",
+          "season": "lent",
+          "season_week": 5,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "5th Sunday of Lent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-03-29",
+          "season": "lent",
+          "season_week": 6,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Palm Sunday of the Passion of the Lord",
+              "colour": "red",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "palm_sunday"
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-04-04",
+          "season": "lent",
+          "season_week": 6,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Easter Sunday of the Resurrection of the Lord: The Easter Vigil in the Holy Night",
+              "colour": "white",
+              "rank": "Easter triduum",
+              "rank_num": 1.1,
+              "id": "easter_sunday_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "Easter Sunday of the Resurrection of the Lord",
+            "colour": "white",
+            "rank": "Easter triduum",
+            "rank_num": 1.1,
+            "id": "easter_sunday"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-04-05",
+          "season": "easter",
+          "season_week": 1,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Easter Sunday of the Resurrection of the Lord",
+              "colour": "white",
+              "rank": "Easter triduum",
+              "rank_num": 1.1,
+              "id": "easter_sunday"
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-04-12",
+          "season": "easter",
+          "season_week": 2,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "2nd Sunday of Easter",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-04-19",
+          "season": "easter",
+          "season_week": 3,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "3rd Sunday of Easter",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-04-26",
+          "season": "easter",
+          "season_week": 4,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "4th Sunday of Easter",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-05-03",
+          "season": "easter",
+          "season_week": 5,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "5th Sunday of Easter",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-05-10",
+          "season": "easter",
+          "season_week": 6,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "6th Sunday of Easter",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-05-23",
+          "season": "easter",
+          "season_week": 7,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Pentecost Sunday: At the Vigil Mass",
+              "colour": "red",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "pentecost_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "Pentecost Sunday",
+            "colour": "red",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "pentecost"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-05-24",
+          "season": "easter",
+          "season_week": 8,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Pentecost Sunday",
+              "colour": "red",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "pentecost"
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-06-14",
+          "season": "ordinary",
+          "season_week": 11,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "11th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-06-21",
+          "season": "ordinary",
+          "season_week": 12,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "12th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-06-28",
+          "season": "ordinary",
+          "season_week": 13,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "13th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "Saints Peter and Paul, Apostles",
+            "colour": "red",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "peter_paul"
+          },
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-07-05",
+          "season": "ordinary",
+          "season_week": 14,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "14th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-07-12",
+          "season": "ordinary",
+          "season_week": 15,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "15th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-07-19",
+          "season": "ordinary",
+          "season_week": 16,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "16th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-07-26",
+          "season": "ordinary",
+          "season_week": 17,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "17th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-08-02",
+          "season": "ordinary",
+          "season_week": 18,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "18th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-08-09",
+          "season": "ordinary",
+          "season_week": 19,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "19th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-08-16",
+          "season": "ordinary",
+          "season_week": 20,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "20th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-08-23",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "21st Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-08-30",
+          "season": "ordinary",
+          "season_week": 22,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "22nd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-09-06",
+          "season": "ordinary",
+          "season_week": 23,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "23rd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-09-13",
+          "season": "ordinary",
+          "season_week": 24,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "24th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-09-20",
+          "season": "ordinary",
+          "season_week": 25,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "25th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-09-27",
+          "season": "ordinary",
+          "season_week": 26,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "26th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-10-04",
+          "season": "ordinary",
+          "season_week": 27,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "27th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-10-11",
+          "season": "ordinary",
+          "season_week": 28,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "28th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-10-18",
+          "season": "ordinary",
+          "season_week": 29,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "29th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-10-25",
+          "season": "ordinary",
+          "season_week": 30,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "30th Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-11-08",
+          "season": "ordinary",
+          "season_week": 32,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "32nd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-11-15",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "33rd Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-11-29",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-06",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "2nd Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-13",
+          "season": "advent",
+          "season_week": 3,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "3rd Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-20",
+          "season": "advent",
+          "season_week": 4,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "4th Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        }
+      ]
+    },
+    {
+      "q": "Mary",
+      "url": "/api/v0/en/calendars/us/search?q=Mary&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 12234,
+      "sha256": "8c6fded0ae04079e0323b448860683bf17a83a40f8e17cc6f0fdd13d7b3b36af",
+      "count": 33,
+      "dates": [
+        "2026-01-01",
+        "2026-02-07",
+        "2026-03-19",
+        "2026-05-25",
+        "2026-05-30",
+        "2026-06-06",
+        "2026-06-13",
+        "2026-06-20",
+        "2026-06-27",
+        "2026-07-04",
+        "2026-07-18",
+        "2026-07-22",
+        "2026-07-29",
+        "2026-08-05",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-22",
+        "2026-09-05",
+        "2026-09-08",
+        "2026-09-12",
+        "2026-09-19",
+        "2026-09-26",
+        "2026-10-03",
+        "2026-10-10",
+        "2026-10-16",
+        "2026-10-24",
+        "2026-10-31",
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-08",
+        "2026-12-27"
+      ],
+      "titles": [
+        [
+          "Solemnity of Mary, the Holy Mother of God"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Saint Joseph, Spouse of the Blessed Virgin Mary"
+        ],
+        [
+          "The Blessed Virgin Mary, Mother of the Church"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "The Immaculate Heart of the Blessed Virgin Mary"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Saint Mary Magdalene"
+        ],
+        [
+          "Saints Martha, Mary, and Lazarus"
+        ],
+        [
+          "The Dedication of the Basilica of Saint Mary Major"
+        ],
+        [
+          "The Assumption of the Blessed Virgin Mary: At the Vigil Mass"
+        ],
+        [
+          "The Assumption of the Blessed Virgin Mary"
+        ],
+        [
+          "The Queenship of the Blessed Virgin Mary"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "The Nativity of the Blessed Virgin Mary"
+        ],
+        [
+          "The Most Holy Name of Mary",
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Saint Margaret Mary Alacoque, Virgin"
+        ],
+        [
+          "Saint Anthony Mary Claret, Bishop",
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "The Presentation of the Blessed Virgin Mary"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "The Immaculate Conception of the Blessed Virgin Mary"
+        ],
+        [
+          "The Holy Family of Jesus, Mary and Joseph"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-01-01",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Solemnity of Mary, the Holy Mother of God",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "mother_of_god"
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-02-07",
+          "season": "ordinary",
+          "season_week": 4,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "5th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-03-19",
+          "season": "lent",
+          "season_week": 4,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "joseph"
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-05-25",
+          "season": "ordinary",
+          "season_week": 8,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Blessed Virgin Mary, Mother of the Church",
+              "colour": "white",
+              "rank": "memorial",
+              "rank_num": 3.1,
+              "id": "mother_of_church"
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-05-30",
+          "season": "ordinary",
+          "season_week": 8,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "The Most Holy Trinity",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "holy_trinity"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-06",
+          "season": "ordinary",
+          "season_week": 9,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "corpus_christi"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-13",
+          "season": "ordinary",
+          "season_week": 10,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Immaculate Heart of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "immaculate_heart"
+            }
+          ],
+          "vespers": {
+            "title": "11th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-20",
+          "season": "ordinary",
+          "season_week": 11,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "12th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-27",
+          "season": "ordinary",
+          "season_week": 12,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "13th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-07-04",
+          "season": "ordinary",
+          "season_week": 13,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "14th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-07-18",
+          "season": "ordinary",
+          "season_week": 15,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "16th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-07-22",
+          "season": "ordinary",
+          "season_week": 16,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Mary Magdalene",
+              "colour": "white",
+              "rank": "feast",
+              "rank_num": 2.7,
+              "id": "mary_magdalene"
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-07-29",
+          "season": "ordinary",
+          "season_week": 17,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saints Martha, Mary, and Lazarus",
+              "colour": "white",
+              "rank": "memorial",
+              "rank_num": 3.1,
+              "id": "martha"
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-08-05",
+          "season": "ordinary",
+          "season_week": 18,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Dedication of the Basilica of Saint Mary Major",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "mary_major"
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-08-14",
+          "season": "ordinary",
+          "season_week": 19,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Assumption of the Blessed Virgin Mary: At the Vigil Mass",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "assumption_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "The Assumption of the Blessed Virgin Mary",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "assumption"
+          },
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-08-15",
+          "season": "ordinary",
+          "season_week": 19,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Assumption of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "assumption"
+            }
+          ],
+          "vespers": null,
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-08-22",
+          "season": "ordinary",
+          "season_week": 20,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Queenship of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "memorial",
+              "rank_num": 3.1,
+              "id": "bvm_queenship"
+            }
+          ],
+          "vespers": {
+            "title": "21st Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-09-05",
+          "season": "ordinary",
+          "season_week": 22,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "23rd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-09-08",
+          "season": "ordinary",
+          "season_week": 23,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Nativity of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "feast",
+              "rank_num": 2.7,
+              "id": "bvm_birth"
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-09-12",
+          "season": "ordinary",
+          "season_week": 23,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Most Holy Name of Mary",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "bvm_name"
+            },
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "24th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-09-19",
+          "season": "ordinary",
+          "season_week": 24,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "25th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-09-26",
+          "season": "ordinary",
+          "season_week": 25,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "26th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-03",
+          "season": "ordinary",
+          "season_week": 26,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "27th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-10",
+          "season": "ordinary",
+          "season_week": 27,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "28th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-16",
+          "season": "ordinary",
+          "season_week": 28,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Margaret Mary Alacoque, Virgin",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "alacoque"
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-10-24",
+          "season": "ordinary",
+          "season_week": 29,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Anthony Mary Claret, Bishop",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "claret"
+            },
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "30th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-31",
+          "season": "ordinary",
+          "season_week": 30,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "All Saints",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "all_saints"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-07",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "32nd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-14",
+          "season": "ordinary",
+          "season_week": 32,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "33rd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-21",
+          "season": "ordinary",
+          "season_week": 33,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Presentation of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "memorial",
+              "rank_num": 3.1,
+              "id": "bvm_presentation"
+            }
+          ],
+          "vespers": {
+            "title": "Our Lord Jesus Christ, King of the Universe",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "christ_king"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-28",
+          "season": "ordinary",
+          "season_week": 34,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "1st Sunday of Advent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-12-08",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "The Immaculate Conception of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "bvm_immaculate"
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-27",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "The Holy Family of Jesus, Mary and Joseph",
+              "colour": "white",
+              "rank": "feast",
+              "rank_num": 2.5,
+              "id": "holy_family"
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        }
+      ]
+    },
+    {
+      "q": "mass",
+      "url": "/api/v0/en/calendars/us/search?q=mass&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 10643,
+      "sha256": "c819056b3961fc6f913f6370a2494e601e91bb4c5d74469d8b2e7cc570ec9584",
+      "count": 26,
+      "dates": [
+        "2026-01-03",
+        "2026-02-07",
+        "2026-04-02",
+        "2026-05-16",
+        "2026-05-23",
+        "2026-05-30",
+        "2026-06-06",
+        "2026-06-20",
+        "2026-06-23",
+        "2026-06-27",
+        "2026-06-28",
+        "2026-07-04",
+        "2026-07-18",
+        "2026-08-14",
+        "2026-09-05",
+        "2026-09-12",
+        "2026-09-19",
+        "2026-09-26",
+        "2026-10-03",
+        "2026-10-10",
+        "2026-10-24",
+        "2026-10-31",
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-28",
+        "2026-12-24"
+      ],
+      "titles": [
+        [
+          "The Epiphany of the Lord: At the Vigil Mass"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+          "Thursday of the Lord’s Supper: At the Evening Mass"
+        ],
+        [
+          "The Ascension of the Lord: At the Vigil Mass"
+        ],
+        [
+          "Pentecost Sunday: At the Vigil Mass"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "The Nativity of Saint John the Baptist: At the Vigil Mass"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Saints Peter and Paul, Apostles: At the Vigil Mass"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "The Assumption of the Blessed Virgin Mary: At the Vigil Mass"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "Mass for the Blessed Virgin Mary on Saturday"
+        ],
+        [
+          "The Nativity of the Lord [CHRISTMAS]: At the Vigil Mass"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-01-03",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Epiphany of the Lord: At the Vigil Mass",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "epiphany_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "The Epiphany of the Lord",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-02-07",
+          "season": "ordinary",
+          "season_week": 4,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "5th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-04-02",
+          "season": "lent",
+          "season_week": 6,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+              "colour": "violet",
+              "rank": "Easter triduum",
+              "rank_num": 1.1,
+              "id": "holy_thursday"
+            },
+            {
+              "title": "Thursday of the Lord’s Supper: At the Evening Mass",
+              "colour": "violet",
+              "rank": "Easter triduum",
+              "rank_num": 1.1,
+              "id": "holy_thursday_evening"
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-05-16",
+          "season": "easter",
+          "season_week": 6,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Ascension of the Lord: At the Vigil Mass",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "ascension_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "The Ascension of the Lord",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "ascension"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-05-23",
+          "season": "easter",
+          "season_week": 7,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Pentecost Sunday: At the Vigil Mass",
+              "colour": "red",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "pentecost_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "Pentecost Sunday",
+            "colour": "red",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "pentecost"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-05-30",
+          "season": "ordinary",
+          "season_week": 8,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "The Most Holy Trinity",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "holy_trinity"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-06",
+          "season": "ordinary",
+          "season_week": 9,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "corpus_christi"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-20",
+          "season": "ordinary",
+          "season_week": 11,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "12th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-23",
+          "season": "ordinary",
+          "season_week": 12,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Nativity of Saint John the Baptist: At the Vigil Mass",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "baptist_birth_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "The Nativity of Saint John the Baptist",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "baptist_birth"
+          },
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-06-27",
+          "season": "ordinary",
+          "season_week": 12,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "13th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-28",
+          "season": "ordinary",
+          "season_week": 13,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saints Peter and Paul, Apostles: At the Vigil Mass",
+              "colour": "red",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "peter_paul_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "Saints Peter and Paul, Apostles",
+            "colour": "red",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "peter_paul"
+          },
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-07-04",
+          "season": "ordinary",
+          "season_week": 13,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "14th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-07-18",
+          "season": "ordinary",
+          "season_week": 15,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "16th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-08-14",
+          "season": "ordinary",
+          "season_week": 19,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Assumption of the Blessed Virgin Mary: At the Vigil Mass",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "assumption_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "The Assumption of the Blessed Virgin Mary",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "assumption"
+          },
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-09-05",
+          "season": "ordinary",
+          "season_week": 22,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "23rd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-09-12",
+          "season": "ordinary",
+          "season_week": 23,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "24th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-09-19",
+          "season": "ordinary",
+          "season_week": 24,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "25th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-09-26",
+          "season": "ordinary",
+          "season_week": 25,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "26th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-03",
+          "season": "ordinary",
+          "season_week": 26,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "27th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-10",
+          "season": "ordinary",
+          "season_week": 27,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "28th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-24",
+          "season": "ordinary",
+          "season_week": 29,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "30th Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-10-31",
+          "season": "ordinary",
+          "season_week": 30,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "All Saints",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "all_saints"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-07",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "32nd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-14",
+          "season": "ordinary",
+          "season_week": 32,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "33rd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-28",
+          "season": "ordinary",
+          "season_week": 34,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Mass for the Blessed Virgin Mary on Saturday",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "saturday_memorial_bvm"
+            }
+          ],
+          "vespers": {
+            "title": "1st Sunday of Advent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-12-24",
+          "season": "advent",
+          "season_week": 4,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "The Nativity of the Lord [CHRISTMAS]: At the Vigil Mass",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "nativity_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "The Nativity of the Lord [CHRISTMAS]",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "nativity"
+          },
+          "weekday": "thursday"
+        }
+      ]
+    },
+    {
+      "q": "joseph",
+      "url": "/api/v0/en/calendars/us/search?q=joseph&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 1123,
+      "sha256": "eb8bd8d53ecaf8d553be2f44301ed368e952844afd6bbed713baae97a4e7ef3e",
+      "count": 4,
+      "dates": [
+        "2026-03-19",
+        "2026-05-01",
+        "2026-08-25",
+        "2026-12-27"
+      ],
+      "titles": [
+        [
+          "Saint Joseph, Spouse of the Blessed Virgin Mary"
+        ],
+        [
+          "Saint Joseph the Worker"
+        ],
+        [
+          "Saint Joseph Calasanz, Priest"
+        ],
+        [
+          "The Holy Family of Jesus, Mary and Joseph"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-03-19",
+          "season": "lent",
+          "season_week": 4,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "joseph"
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-05-01",
+          "season": "easter",
+          "season_week": 4,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Joseph the Worker",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "joseph_worker"
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-08-25",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Joseph Calasanz, Priest",
+              "colour": "white",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "joseph_calasanz"
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-27",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "The Holy Family of Jesus, Mary and Joseph",
+              "colour": "white",
+              "rank": "feast",
+              "rank_num": 2.5,
+              "id": "holy_family"
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        }
+      ]
+    },
+    {
+      "q": "1st",
+      "url": "/api/v0/en/calendars/us/search?q=1st&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 6965,
+      "sha256": "ce587428be39c70a28f427cb3c3ab1c2ce6d51ce45b43ad8eb226c80cf9cb7d1",
+      "count": 25,
+      "dates": [
+        "2026-01-12",
+        "2026-01-13",
+        "2026-01-14",
+        "2026-01-15",
+        "2026-01-16",
+        "2026-02-22",
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-02-28",
+        "2026-08-23",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-29",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-21"
+      ],
+      "titles": [
+        [
+          "Monday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Tuesday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Wednesday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Thursday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Friday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "1st Sunday of Lent"
+        ],
+        [
+          "Monday of the 1st Week of Lent"
+        ],
+        [
+          "Tuesday of the 1st Week of Lent"
+        ],
+        [
+          "Wednesday of the 1st Week of Lent"
+        ],
+        [
+          "Thursday of the 1st Week of Lent"
+        ],
+        [
+          "Friday of the 1st Week of Lent"
+        ],
+        [
+          "Saturday of the 1st Week of Lent"
+        ],
+        [
+          "21st Sunday in Ordinary Time"
+        ],
+        [
+          "Tuesday of the 21st Week in Ordinary Time"
+        ],
+        [
+          "Wednesday of the 21st Week in Ordinary Time"
+        ],
+        [
+          "Tuesday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "Thursday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "Friday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "Saturday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "1st Sunday of Advent"
+        ],
+        [
+          "Tuesday of the 1st Week of Advent"
+        ],
+        [
+          "Wednesday of the 1st Week of Advent"
+        ],
+        [
+          "Friday of the 1st Week of Advent"
+        ],
+        [
+          "Saturday of the 1st Week of Advent"
+        ],
+        [
+          "December 21st"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-01-12",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Monday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-01-13",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-01-14",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-01-15",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-01-16",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-02-22",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Lent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-02-23",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Monday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-02-24",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-02-25",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-02-26",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-02-27",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-02-28",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saturday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "2nd Sunday of Lent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-08-23",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "21st Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-08-25",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 21st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-08-26",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 21st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-11-03",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-11-05",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-11-06",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-11-07",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saturday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "32nd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-29",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-01",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-02",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-04",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-12-05",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Saturday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "2nd Sunday of Advent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-12-21",
+          "season": "advent",
+          "season_week": 4,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "December 21st",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": "advent_monday_december21"
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        }
+      ]
+    },
+    {
+      "q": "first",
+      "url": "/api/v0/en/calendars/us/search?q=first&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 7647,
+      "sha256": "68832ac8465a5818bf1e9fe47e859a074ca7382d1680b6b16803fd29449826e2",
+      "count": 27,
+      "dates": [
+        "2026-01-12",
+        "2026-01-13",
+        "2026-01-14",
+        "2026-01-15",
+        "2026-01-16",
+        "2026-02-22",
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-02-28",
+        "2026-06-30",
+        "2026-08-23",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-29",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-21",
+        "2026-12-26"
+      ],
+      "titles": [
+        [
+          "Monday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Tuesday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Wednesday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Thursday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "Friday of the 1st Week in Ordinary Time"
+        ],
+        [
+          "1st Sunday of Lent"
+        ],
+        [
+          "Monday of the 1st Week of Lent"
+        ],
+        [
+          "Tuesday of the 1st Week of Lent"
+        ],
+        [
+          "Wednesday of the 1st Week of Lent"
+        ],
+        [
+          "Thursday of the 1st Week of Lent"
+        ],
+        [
+          "Friday of the 1st Week of Lent"
+        ],
+        [
+          "Saturday of the 1st Week of Lent"
+        ],
+        [
+          "The First Martyrs of the Holy Roman Church"
+        ],
+        [
+          "21st Sunday in Ordinary Time"
+        ],
+        [
+          "Tuesday of the 21st Week in Ordinary Time"
+        ],
+        [
+          "Wednesday of the 21st Week in Ordinary Time"
+        ],
+        [
+          "Tuesday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "Thursday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "Friday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "Saturday of the 31st Week in Ordinary Time"
+        ],
+        [
+          "1st Sunday of Advent"
+        ],
+        [
+          "Tuesday of the 1st Week of Advent"
+        ],
+        [
+          "Wednesday of the 1st Week of Advent"
+        ],
+        [
+          "Friday of the 1st Week of Advent"
+        ],
+        [
+          "Saturday of the 1st Week of Advent"
+        ],
+        [
+          "December 21st"
+        ],
+        [
+          "Saint Stephen, the First Martyr"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-01-12",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Monday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-01-13",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-01-14",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-01-15",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-01-16",
+          "season": "ordinary",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-02-22",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Lent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-02-23",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Monday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-02-24",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-02-25",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-02-26",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-02-27",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-02-28",
+          "season": "lent",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saturday of the 1st Week of Lent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "2nd Sunday of Lent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-06-30",
+          "season": "ordinary",
+          "season_week": 13,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The First Martyrs of the Holy Roman Church",
+              "colour": "red",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "first_martyrs_of_rome"
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-08-23",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "21st Sunday in Ordinary Time",
+              "colour": "green",
+              "rank": "Sunday",
+              "rank_num": 2.6,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-08-25",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 21st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-08-26",
+          "season": "ordinary",
+          "season_week": 21,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 21st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-11-03",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-11-05",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-11-06",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-11-07",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saturday of the 31st Week in Ordinary Time",
+              "colour": "green",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "32nd Sunday in Ordinary Time",
+            "colour": "green",
+            "rank": "Sunday",
+            "rank_num": 2.6,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-11-29",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-01",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-02",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-04",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-12-05",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Saturday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "2nd Sunday of Advent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-12-21",
+          "season": "advent",
+          "season_week": 4,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "December 21st",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": "advent_monday_december21"
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        },
+        {
+          "date": "2026-12-26",
+          "season": "christmas",
+          "season_week": 0,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Saint Stephen, the First Martyr",
+              "colour": "red",
+              "rank": "feast",
+              "rank_num": 2.7,
+              "id": "stephen"
+            }
+          ],
+          "vespers": {
+            "title": "The Holy Family of Jesus, Mary and Joseph",
+            "colour": "white",
+            "rank": "feast",
+            "rank_num": 2.5,
+            "id": "holy_family"
+          },
+          "weekday": "saturday"
+        }
+      ]
+    },
+    {
+      "q": "Christ",
+      "url": "/api/v0/en/calendars/us/search?q=Christ&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 3388,
+      "sha256": "088068267b6cd038c72a66c84be91b7fc0b81fa3dc1d6f964da14fd45ffbc8e6",
+      "count": 10,
+      "dates": [
+        "2026-01-02",
+        "2026-01-03",
+        "2026-05-21",
+        "2026-06-07",
+        "2026-11-22",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "titles": [
+        [
+          "Friday of Christmas Time: January 2"
+        ],
+        [
+          "Saturday of Christmas Time: January 3"
+        ],
+        [
+          "Saint Christopher Magallanes, Priest, and Companions, Martyrs"
+        ],
+        [
+          "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)"
+        ],
+        [
+          "Our Lord Jesus Christ, King of the Universe"
+        ],
+        [
+          "The Nativity of the Lord [CHRISTMAS]: At the Vigil Mass"
+        ],
+        [
+          "The Nativity of the Lord [CHRISTMAS]"
+        ],
+        [
+          "5th Day within the Octave of the Nativity of the Lord [Christmas]"
+        ],
+        [
+          "6th Day within the Octave of the Nativity of the Lord [Christmas]"
+        ],
+        [
+          "7th Day within the Octave of the Nativity of the Lord [Christmas]"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-01-02",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Friday of Christmas Time: January 2",
+              "colour": "white",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": "pre_epiphany_friday_january2"
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-01-03",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saturday of Christmas Time: January 3",
+              "colour": "white",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": "pre_epiphany_saturday_january3"
+            }
+          ],
+          "vespers": {
+            "title": "The Epiphany of the Lord",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany"
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-05-21",
+          "season": "easter",
+          "season_week": 7,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Saint Christopher Magallanes, Priest, and Companions, Martyrs",
+              "colour": "red",
+              "rank": "optional memorial",
+              "rank_num": 3.12,
+              "id": "magallanes"
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-06-07",
+          "season": "ordinary",
+          "season_week": 10,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "corpus_christi"
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-11-22",
+          "season": "ordinary",
+          "season_week": 34,
+          "cycle": "A",
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Our Lord Jesus Christ, King of the Universe",
+              "colour": "white",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "christ_king"
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-24",
+          "season": "advent",
+          "season_week": 4,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "The Nativity of the Lord [CHRISTMAS]: At the Vigil Mass",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "nativity_vigil"
+            }
+          ],
+          "vespers": {
+            "title": "The Nativity of the Lord [CHRISTMAS]",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "nativity"
+          },
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-12-25",
+          "season": "christmas",
+          "season_week": 0,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "The Nativity of the Lord [CHRISTMAS]",
+              "colour": "white",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": "nativity"
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-12-29",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "5th Day within the Octave of the Nativity of the Lord [Christmas]",
+              "colour": "white",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": "christmas_octave_5"
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-30",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "6th Day within the Octave of the Nativity of the Lord [Christmas]",
+              "colour": "white",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": "christmas_octave_6"
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-31",
+          "season": "christmas",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+              "colour": "white",
+              "rank": "ferial",
+              "rank_num": 2.9,
+              "id": "christmas_octave_7"
+            }
+          ],
+          "vespers": {
+            "title": "Solemnity of Mary, the Holy Mother of God",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "mother_of_god"
+          },
+          "weekday": "thursday"
+        }
+      ]
+    },
+    {
+      "q": "ADVENT",
+      "url": "/api/v0/en/calendars/us/search?q=ADVENT&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 3554,
+      "sha256": "185e89332d85287867e2f08a41962b68f941ad22a65845097dad8334710a7668",
+      "count": 13,
+      "dates": [
+        "2026-11-29",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-13",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-20"
+      ],
+      "titles": [
+        [
+          "1st Sunday of Advent"
+        ],
+        [
+          "Tuesday of the 1st Week of Advent"
+        ],
+        [
+          "Wednesday of the 1st Week of Advent"
+        ],
+        [
+          "Friday of the 1st Week of Advent"
+        ],
+        [
+          "Saturday of the 1st Week of Advent"
+        ],
+        [
+          "2nd Sunday of Advent"
+        ],
+        [
+          "Wednesday of the 2nd Week of Advent"
+        ],
+        [
+          "Thursday of the 2nd Week of Advent"
+        ],
+        [
+          "Friday of the 2nd Week of Advent"
+        ],
+        [
+          "3rd Sunday of Advent"
+        ],
+        [
+          "Tuesday of the 3rd Week of Advent"
+        ],
+        [
+          "Wednesday of the 3rd Week of Advent"
+        ],
+        [
+          "4th Sunday of Advent"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-11-29",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "1st Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-01",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-02",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-04",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Friday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-12-05",
+          "season": "advent",
+          "season_week": 1,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Saturday of the 1st Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": {
+            "title": "2nd Sunday of Advent",
+            "colour": "violet",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": null
+          },
+          "weekday": "saturday"
+        },
+        {
+          "date": "2026-12-06",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "2nd Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-09",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 2nd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-10",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Thursday of the 2nd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-12-11",
+          "season": "advent",
+          "season_week": 2,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Friday of the 2nd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "friday"
+        },
+        {
+          "date": "2026-12-13",
+          "season": "advent",
+          "season_week": 3,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "3rd Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        },
+        {
+          "date": "2026-12-15",
+          "season": "advent",
+          "season_week": 3,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Tuesday of the 3rd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "tuesday"
+        },
+        {
+          "date": "2026-12-16",
+          "season": "advent",
+          "season_week": 3,
+          "cycle": 1,
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "Wednesday of the 3rd Week of Advent",
+              "colour": "violet",
+              "rank": "ferial",
+              "rank_num": 3.13,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "wednesday"
+        },
+        {
+          "date": "2026-12-20",
+          "season": "advent",
+          "season_week": 4,
+          "cycle": "B",
+          "cycle_sunday": "B",
+          "cycle_ferial": 1,
+          "celebrations": [
+            {
+              "title": "4th Sunday of Advent",
+              "colour": "violet",
+              "rank": "Primary liturgical days",
+              "rank_num": 1.2,
+              "id": null
+            }
+          ],
+          "vespers": null,
+          "weekday": "sunday"
+        }
+      ]
+    },
+    {
+      "q": "of the",
+      "url": "/api/v0/en/calendars/us/search?q=of%20the&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 72964,
+      "sha256": "6ecfec13e3c3894cd20e70262dce84673aebca799bc20c42792215ea03ec96a7",
+      "count": 240,
+      "dates": [
+        "2026-01-02",
+        "2026-01-03",
+        "2026-01-04",
+        "2026-01-11",
+        "2026-01-12",
+        "2026-01-13",
+        "2026-01-14",
+        "2026-01-15",
+        "2026-01-16",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-22",
+        "2026-01-23",
+        "2026-01-24",
+        "2026-01-27",
+        "2026-01-28",
+        "2026-01-29",
+        "2026-01-30",
+        "2026-02-02",
+        "2026-02-03",
+        "2026-02-04",
+        "2026-02-07",
+        "2026-02-09",
+        "2026-02-11",
+        "2026-02-12",
+        "2026-02-13",
+        "2026-02-16",
+        "2026-02-17",
+        "2026-02-21",
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-02-28",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-07",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-14",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-21",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-28",
+        "2026-03-29",
+        "2026-04-02",
+        "2026-04-03",
+        "2026-04-04",
+        "2026-04-05",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-18",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-02",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-09",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-15",
+        "2026-05-16",
+        "2026-05-17",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-23",
+        "2026-05-25",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-05-30",
+        "2026-06-02",
+        "2026-06-04",
+        "2026-06-06",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-13",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-27",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-04",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-30",
+        "2026-08-01",
+        "2026-08-03",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-22",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-14",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-22",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-28",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-03",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-14",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-07",
+        "2026-12-08",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-21",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "titles": null,
+      "body": null
+    },
+    {
+      "q": "'",
+      "url": "/api/v0/en/calendars/us/search?q='&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "count": 0,
+      "dates": [],
+      "titles": [],
+      "body": []
+    },
+    {
+      "q": "’",
+      "url": "/api/v0/en/calendars/us/search?q=%E2%80%99&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 616,
+      "sha256": "95aba0a9a2694de3ab43a58c392eb8c2c3994c5bc9ecd1b684955a6e377605ee",
+      "count": 2,
+      "dates": [
+        "2026-04-02",
+        "2026-11-02"
+      ],
+      "titles": [
+        [
+          "Thursday of the Lord’s Supper: At the Evening Mass"
+        ],
+        [
+          "The Commemoration of All the Faithful Departed (All Souls’ Day)"
+        ]
+      ],
+      "body": [
+        {
+          "date": "2026-04-02",
+          "season": "lent",
+          "season_week": 6,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "Thursday of the Lord’s Supper: At the Evening Mass",
+              "colour": "violet",
+              "rank": "Easter triduum",
+              "rank_num": 1.1,
+              "id": "holy_thursday_evening"
+            }
+          ],
+          "vespers": null,
+          "weekday": "thursday"
+        },
+        {
+          "date": "2026-11-02",
+          "season": "ordinary",
+          "season_week": 31,
+          "cycle": 2,
+          "cycle_sunday": "A",
+          "cycle_ferial": 2,
+          "celebrations": [
+            {
+              "title": "The Commemoration of All the Faithful Departed (All Souls’ Day)",
+              "colour": "violet",
+              "rank": "solemnity",
+              "rank_num": 1.3,
+              "id": "all_souls"
+            }
+          ],
+          "vespers": null,
+          "weekday": "monday"
+        }
+      ]
+    },
+    {
+      "q": "",
+      "url": "/api/v0/en/calendars/us/search?q=&startDate=2026-01-01&endDate=2026-12-31",
+      "status": 200,
+      "bytes": 123094,
+      "sha256": "8486b2fb2b1a86968170940c8ebc8ab56ddeeac4eae167f19c5a22e5d9644855",
+      "count": 365,
+      "dates": [
+        "2026-01-01",
+        "2026-01-02",
+        "2026-01-03",
+        "2026-01-04",
+        "2026-01-05",
+        "2026-01-06",
+        "2026-01-07",
+        "2026-01-08",
+        "2026-01-09",
+        "2026-01-10",
+        "2026-01-11",
+        "2026-01-12",
+        "2026-01-13",
+        "2026-01-14",
+        "2026-01-15",
+        "2026-01-16",
+        "2026-01-17",
+        "2026-01-18",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-21",
+        "2026-01-22",
+        "2026-01-23",
+        "2026-01-24",
+        "2026-01-25",
+        "2026-01-26",
+        "2026-01-27",
+        "2026-01-28",
+        "2026-01-29",
+        "2026-01-30",
+        "2026-01-31",
+        "2026-02-01",
+        "2026-02-02",
+        "2026-02-03",
+        "2026-02-04",
+        "2026-02-05",
+        "2026-02-06",
+        "2026-02-07",
+        "2026-02-08",
+        "2026-02-09",
+        "2026-02-10",
+        "2026-02-11",
+        "2026-02-12",
+        "2026-02-13",
+        "2026-02-14",
+        "2026-02-15",
+        "2026-02-16",
+        "2026-02-17",
+        "2026-02-18",
+        "2026-02-19",
+        "2026-02-20",
+        "2026-02-21",
+        "2026-02-22",
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-02-28",
+        "2026-03-01",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-07",
+        "2026-03-08",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-14",
+        "2026-03-15",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-21",
+        "2026-03-22",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-28",
+        "2026-03-29",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-03",
+        "2026-04-04",
+        "2026-04-05",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-11",
+        "2026-04-12",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-18",
+        "2026-04-19",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-25",
+        "2026-04-26",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-02",
+        "2026-05-03",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-09",
+        "2026-05-10",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-16",
+        "2026-05-17",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-23",
+        "2026-05-24",
+        "2026-05-25",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-05-30",
+        "2026-05-31",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-21",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-27",
+        "2026-06-28",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-08",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "titles": null,
+      "body": null
+    }
+  ]
+}

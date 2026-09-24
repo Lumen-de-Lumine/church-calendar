@@ -1,0 +1,19 @@
+{
+  "date": "2026-12-25",
+  "season": "christmas",
+  "season_week": 0,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "The Nativity of the Lord [CHRISTMAS]",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "nativity"
+    }
+  ],
+  "vespers": null,
+  "weekday": "friday"
+}

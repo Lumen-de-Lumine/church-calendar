@@ -1,0 +1,198 @@
+{
+  "note": "`date` and any per-request headers vary; assert on cache-control / access-control-* / content-type.",
+  "entries": [
+    {
+      "name": "api-day",
+      "method": "GET",
+      "url": "/api/v0/en/calendars/us/2026/9/18",
+      "origin": null,
+      "status": 200,
+      "headers": {
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-length": "268",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Thu, 24 Sep 2026 16:09:45 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "vary": "Origin",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "api-day-with-origin",
+      "method": "GET",
+      "url": "/api/v0/en/calendars/us/2026/9/18",
+      "origin": "https://example.com",
+      "status": 200,
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "1728000",
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-length": "268",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Thu, 24 Sep 2026 16:09:45 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "vary": "Origin",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "api-calendars",
+      "method": "GET",
+      "url": "/api/v0/en/calendars",
+      "origin": null,
+      "status": 200,
+      "headers": {
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-length": "384",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Thu, 24 Sep 2026 16:09:46 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "vary": "Origin",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "api-calendars-with-origin",
+      "method": "GET",
+      "url": "/api/v0/en/calendars",
+      "origin": "https://example.com",
+      "status": 200,
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "1728000",
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-length": "384",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Thu, 24 Sep 2026 16:09:46 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "vary": "Origin",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "swagger",
+      "method": "GET",
+      "url": "/swagger.yml",
+      "origin": null,
+      "status": 200,
+      "headers": {
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Thu, 24 Sep 2026 16:09:46 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "transfer-encoding": "chunked",
+        "vary": "Origin",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "swagger-with-origin",
+      "method": "GET",
+      "url": "/swagger.yml",
+      "origin": "https://example.com",
+      "status": 200,
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "1728000",
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Thu, 24 Sep 2026 16:09:46 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "transfer-encoding": "chunked",
+        "vary": "Origin",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "web-root",
+      "method": "GET",
+      "url": "/",
+      "origin": null,
+      "status": 200,
+      "headers": {
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Thu, 24 Sep 2026 16:09:46 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "transfer-encoding": "chunked",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "web-root-with-origin",
+      "method": "GET",
+      "url": "/",
+      "origin": "https://example.com",
+      "status": 200,
+      "headers": {
+        "cache-control": "max-age=3600",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Thu, 24 Sep 2026 16:09:47 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "transfer-encoding": "chunked",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "preflight-api-day",
+      "method": "OPTIONS",
+      "url": "/api/v0/en/calendars/us/2026/9/18",
+      "origin": "https://example.com",
+      "status": 200,
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "1728000",
+        "connection": "keep-alive",
+        "content-length": "0",
+        "content-type": "text/plain",
+        "date": "Thu, 24 Sep 2026 16:09:47 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    },
+    {
+      "name": "preflight-swagger",
+      "method": "OPTIONS",
+      "url": "/swagger.yml",
+      "origin": "https://example.com",
+      "status": 200,
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "1728000",
+        "connection": "keep-alive",
+        "content-length": "0",
+        "content-type": "text/plain",
+        "date": "Thu, 24 Sep 2026 16:09:47 GMT",
+        "server": "nginx + Phusion Passenger(R)",
+        "status": "200 OK",
+        "x-powered-by": "Phusion Passenger(R)"
+      }
+    }
+  ]
+}

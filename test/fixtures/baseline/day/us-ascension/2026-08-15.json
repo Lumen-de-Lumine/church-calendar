@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-15",
+  "season": "ordinary",
+  "season_week": 19,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "The Assumption of the Blessed Virgin Mary",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "assumption"
+    }
+  ],
+  "vespers": null,
+  "weekday": "saturday"
+}

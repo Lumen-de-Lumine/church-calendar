@@ -1,0 +1,32 @@
+{
+  "date": "2026-12-24",
+  "season": "advent",
+  "season_week": 4,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "December 24th",
+      "colour": "violet",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "advent_thursday_december24"
+    },
+    {
+      "title": "The Nativity of the Lord [CHRISTMAS]: At the Vigil Mass",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "nativity_vigil"
+    }
+  ],
+  "vespers": {
+    "title": "The Nativity of the Lord [CHRISTMAS]",
+    "colour": "white",
+    "rank": "Primary liturgical days",
+    "rank_num": 1.2,
+    "id": "nativity"
+  },
+  "weekday": "thursday"
+}

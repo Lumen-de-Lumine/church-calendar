@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-13",
+  "season": "ordinary",
+  "season_week": 10,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Saturday of the 10th Week in Ordinary Time",
+      "colour": "green",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "The Immaculate Heart of the Blessed Virgin Mary",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "immaculate_heart"
+    },
+    {
+      "title": "Saint Anthony of Padua, Priest and Doctor of the Church",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "anthony_of_padua"
+    }
+  ],
+  "vespers": {
+    "title": "11th Sunday in Ordinary Time",
+    "colour": "green",
+    "rank": "Sunday",
+    "rank_num": 2.6,
+    "id": null
+  },
+  "weekday": "saturday"
+}

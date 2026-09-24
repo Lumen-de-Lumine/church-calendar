@@ -1,0 +1,19 @@
+{
+  "date": "2026-12-20",
+  "season": "advent",
+  "season_week": 4,
+  "cycle": "B",
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "4th Sunday of Advent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

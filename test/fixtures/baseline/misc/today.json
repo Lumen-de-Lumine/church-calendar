@@ -1,0 +1,534 @@
+{
+  "note": "Entries with deterministic=false depend on the server clock at capture time; assert only the shape.",
+  "entries": [
+    {
+      "endpoint": "yesterday",
+      "date_header": "rfc1123",
+      "date_header_value": "Sat, 01 Jan 2000 01:00:00 GMT",
+      "url": "/api/v0/en/calendars/us/yesterday",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 539,
+      "sha256": "8803b1254703b8c1e662c5be5cb4e558c342d0e49a25d6807edf358d58959321",
+      "body": {
+        "date": "1999-12-31",
+        "season": "christmas",
+        "season_week": 1,
+        "cycle": 2,
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+            "colour": "white",
+            "rank": "ferial",
+            "rank_num": 2.9,
+            "id": "christmas_octave_7"
+          },
+          {
+            "title": "Saint Sylvester I, Pope",
+            "colour": "white",
+            "rank": "commemoration",
+            "rank_num": 4,
+            "id": "sylvester_i"
+          }
+        ],
+        "vespers": {
+          "title": "Solemnity of Mary, the Holy Mother of God",
+          "colour": "white",
+          "rank": "solemnity",
+          "rank_num": 1.3,
+          "id": "mother_of_god"
+        },
+        "weekday": "friday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:48 GMT"
+    },
+    {
+      "endpoint": "yesterday",
+      "date_header": "rfc850",
+      "date_header_value": "Saturday, 01-Jan-00 01:00:00 GMT",
+      "url": "/api/v0/en/calendars/us/yesterday",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 539,
+      "sha256": "8803b1254703b8c1e662c5be5cb4e558c342d0e49a25d6807edf358d58959321",
+      "body": {
+        "date": "1999-12-31",
+        "season": "christmas",
+        "season_week": 1,
+        "cycle": 2,
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+            "colour": "white",
+            "rank": "ferial",
+            "rank_num": 2.9,
+            "id": "christmas_octave_7"
+          },
+          {
+            "title": "Saint Sylvester I, Pope",
+            "colour": "white",
+            "rank": "commemoration",
+            "rank_num": 4,
+            "id": "sylvester_i"
+          }
+        ],
+        "vespers": {
+          "title": "Solemnity of Mary, the Holy Mother of God",
+          "colour": "white",
+          "rank": "solemnity",
+          "rank_num": 1.3,
+          "id": "mother_of_god"
+        },
+        "weekday": "friday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:48 GMT"
+    },
+    {
+      "endpoint": "yesterday",
+      "date_header": "asctime",
+      "date_header_value": "Sat Jan  1 01:00:00 2000",
+      "url": "/api/v0/en/calendars/us/yesterday",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 539,
+      "sha256": "8803b1254703b8c1e662c5be5cb4e558c342d0e49a25d6807edf358d58959321",
+      "body": {
+        "date": "1999-12-31",
+        "season": "christmas",
+        "season_week": 1,
+        "cycle": 2,
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+            "colour": "white",
+            "rank": "ferial",
+            "rank_num": 2.9,
+            "id": "christmas_octave_7"
+          },
+          {
+            "title": "Saint Sylvester I, Pope",
+            "colour": "white",
+            "rank": "commemoration",
+            "rank_num": 4,
+            "id": "sylvester_i"
+          }
+        ],
+        "vespers": {
+          "title": "Solemnity of Mary, the Holy Mother of God",
+          "colour": "white",
+          "rank": "solemnity",
+          "rank_num": 1.3,
+          "id": "mother_of_god"
+        },
+        "weekday": "friday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:49 GMT"
+    },
+    {
+      "endpoint": "yesterday",
+      "date_header": "invalid",
+      "date_header_value": "not-a-date",
+      "url": "/api/v0/en/calendars/us/yesterday",
+      "deterministic": true,
+      "status": 400,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 47,
+      "sha256": "ef88d7f2ef89e3b0093bd0371fc1940074c023bac0bb8bbf67e77f1e17b53f46",
+      "body": {
+        "error": "invalid content of HTTP header Date"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:49 GMT"
+    },
+    {
+      "endpoint": "yesterday",
+      "date_header": "absent",
+      "date_header_value": null,
+      "url": "/api/v0/en/calendars/us/yesterday",
+      "deterministic": false,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 567,
+      "sha256": "79a2112cc5afb03c70658199758e3c8578d72cab86ee5d418eb11495bdc8de62",
+      "body": {
+        "date": "2026-09-17",
+        "season": "ordinary",
+        "season_week": 24,
+        "cycle": 2,
+        "cycle_sunday": "A",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "Thursday of the 24th Week in Ordinary Time",
+            "colour": "green",
+            "rank": "ferial",
+            "rank_num": 3.13,
+            "id": null
+          },
+          {
+            "title": "Saint Robert Bellarmine, Bishop and Doctor of the Church",
+            "colour": "white",
+            "rank": "optional memorial",
+            "rank_num": 3.12,
+            "id": "bellarmine"
+          },
+          {
+            "title": "Saint Hildegard of Bingen, Virgin and Doctor of the Church",
+            "colour": "white",
+            "rank": "optional memorial",
+            "rank_num": 3.12,
+            "id": "hildegard"
+          }
+        ],
+        "vespers": null,
+        "weekday": "thursday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:50 GMT"
+    },
+    {
+      "endpoint": "today",
+      "date_header": "rfc1123",
+      "date_header_value": "Sat, 01 Jan 2000 01:00:00 GMT",
+      "url": "/api/v0/en/calendars/us/today",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 540,
+      "sha256": "2dedbfeb3186cc779c32b3052e3924cf815c83e89e82c63f75012c60e56919d8",
+      "body": {
+        "date": "2000-01-01",
+        "season": "christmas",
+        "season_week": 1,
+        "cycle": 2,
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "Solemnity of Mary, the Holy Mother of God",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "mother_of_god"
+          },
+          {
+            "title": "The Epiphany of the Lord: At the Vigil Mass",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany_vigil"
+          }
+        ],
+        "vespers": {
+          "title": "The Epiphany of the Lord",
+          "colour": "white",
+          "rank": "Primary liturgical days",
+          "rank_num": 1.2,
+          "id": "epiphany"
+        },
+        "weekday": "saturday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:50 GMT"
+    },
+    {
+      "endpoint": "today",
+      "date_header": "rfc850",
+      "date_header_value": "Saturday, 01-Jan-00 01:00:00 GMT",
+      "url": "/api/v0/en/calendars/us/today",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 540,
+      "sha256": "2dedbfeb3186cc779c32b3052e3924cf815c83e89e82c63f75012c60e56919d8",
+      "body": {
+        "date": "2000-01-01",
+        "season": "christmas",
+        "season_week": 1,
+        "cycle": 2,
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "Solemnity of Mary, the Holy Mother of God",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "mother_of_god"
+          },
+          {
+            "title": "The Epiphany of the Lord: At the Vigil Mass",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany_vigil"
+          }
+        ],
+        "vespers": {
+          "title": "The Epiphany of the Lord",
+          "colour": "white",
+          "rank": "Primary liturgical days",
+          "rank_num": 1.2,
+          "id": "epiphany"
+        },
+        "weekday": "saturday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:50 GMT"
+    },
+    {
+      "endpoint": "today",
+      "date_header": "asctime",
+      "date_header_value": "Sat Jan  1 01:00:00 2000",
+      "url": "/api/v0/en/calendars/us/today",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 540,
+      "sha256": "2dedbfeb3186cc779c32b3052e3924cf815c83e89e82c63f75012c60e56919d8",
+      "body": {
+        "date": "2000-01-01",
+        "season": "christmas",
+        "season_week": 1,
+        "cycle": 2,
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "Solemnity of Mary, the Holy Mother of God",
+            "colour": "white",
+            "rank": "solemnity",
+            "rank_num": 1.3,
+            "id": "mother_of_god"
+          },
+          {
+            "title": "The Epiphany of the Lord: At the Vigil Mass",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany_vigil"
+          }
+        ],
+        "vespers": {
+          "title": "The Epiphany of the Lord",
+          "colour": "white",
+          "rank": "Primary liturgical days",
+          "rank_num": 1.2,
+          "id": "epiphany"
+        },
+        "weekday": "saturday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:51 GMT"
+    },
+    {
+      "endpoint": "today",
+      "date_header": "invalid",
+      "date_header_value": "not-a-date",
+      "url": "/api/v0/en/calendars/us/today",
+      "deterministic": true,
+      "status": 400,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 47,
+      "sha256": "ef88d7f2ef89e3b0093bd0371fc1940074c023bac0bb8bbf67e77f1e17b53f46",
+      "body": {
+        "error": "invalid content of HTTP header Date"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:51 GMT"
+    },
+    {
+      "endpoint": "today",
+      "date_header": "absent",
+      "date_header_value": null,
+      "url": "/api/v0/en/calendars/us/today",
+      "deterministic": false,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 268,
+      "sha256": "6c9805a77d2f1087066641848f5a3dfdccfeae4303f155c981011c6cbefdff55",
+      "body": {
+        "date": "2026-09-18",
+        "season": "ordinary",
+        "season_week": 24,
+        "cycle": 2,
+        "cycle_sunday": "A",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "Friday of the 24th Week in Ordinary Time",
+            "colour": "green",
+            "rank": "ferial",
+            "rank_num": 3.13,
+            "id": null
+          }
+        ],
+        "vespers": null,
+        "weekday": "friday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:52 GMT"
+    },
+    {
+      "endpoint": "tomorrow",
+      "date_header": "rfc1123",
+      "date_header_value": "Sat, 01 Jan 2000 01:00:00 GMT",
+      "url": "/api/v0/en/calendars/us/tomorrow",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 276,
+      "sha256": "9eebce26c70d5c7dd8cc325b6e42339f8b43a96d68053a6231e5550ce91fe521",
+      "body": {
+        "date": "2000-01-02",
+        "season": "christmas",
+        "season_week": 2,
+        "cycle": "B",
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "The Epiphany of the Lord",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany"
+          }
+        ],
+        "vespers": null,
+        "weekday": "sunday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:52 GMT"
+    },
+    {
+      "endpoint": "tomorrow",
+      "date_header": "rfc850",
+      "date_header_value": "Saturday, 01-Jan-00 01:00:00 GMT",
+      "url": "/api/v0/en/calendars/us/tomorrow",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 276,
+      "sha256": "9eebce26c70d5c7dd8cc325b6e42339f8b43a96d68053a6231e5550ce91fe521",
+      "body": {
+        "date": "2000-01-02",
+        "season": "christmas",
+        "season_week": 2,
+        "cycle": "B",
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "The Epiphany of the Lord",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany"
+          }
+        ],
+        "vespers": null,
+        "weekday": "sunday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:52 GMT"
+    },
+    {
+      "endpoint": "tomorrow",
+      "date_header": "asctime",
+      "date_header_value": "Sat Jan  1 01:00:00 2000",
+      "url": "/api/v0/en/calendars/us/tomorrow",
+      "deterministic": true,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 276,
+      "sha256": "9eebce26c70d5c7dd8cc325b6e42339f8b43a96d68053a6231e5550ce91fe521",
+      "body": {
+        "date": "2000-01-02",
+        "season": "christmas",
+        "season_week": 2,
+        "cycle": "B",
+        "cycle_sunday": "B",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "The Epiphany of the Lord",
+            "colour": "white",
+            "rank": "Primary liturgical days",
+            "rank_num": 1.2,
+            "id": "epiphany"
+          }
+        ],
+        "vespers": null,
+        "weekday": "sunday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:53 GMT"
+    },
+    {
+      "endpoint": "tomorrow",
+      "date_header": "invalid",
+      "date_header_value": "not-a-date",
+      "url": "/api/v0/en/calendars/us/tomorrow",
+      "deterministic": true,
+      "status": 400,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 47,
+      "sha256": "ef88d7f2ef89e3b0093bd0371fc1940074c023bac0bb8bbf67e77f1e17b53f46",
+      "body": {
+        "error": "invalid content of HTTP header Date"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:53 GMT"
+    },
+    {
+      "endpoint": "tomorrow",
+      "date_header": "absent",
+      "date_header_value": null,
+      "url": "/api/v0/en/calendars/us/tomorrow",
+      "deterministic": false,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 634,
+      "sha256": "1311c881029ef1e3f8df90d95bfda7f337d3b5c5df4633c0b342ea6920d68a04",
+      "body": {
+        "date": "2026-09-19",
+        "season": "ordinary",
+        "season_week": 24,
+        "cycle": 2,
+        "cycle_sunday": "A",
+        "cycle_ferial": 2,
+        "celebrations": [
+          {
+            "title": "Saturday of the 24th Week in Ordinary Time",
+            "colour": "green",
+            "rank": "ferial",
+            "rank_num": 3.13,
+            "id": null
+          },
+          {
+            "title": "Saint Januarius, Bishop and Martyr",
+            "colour": "red",
+            "rank": "optional memorial",
+            "rank_num": 3.12,
+            "id": "januarius"
+          },
+          {
+            "title": "Mass for the Blessed Virgin Mary on Saturday",
+            "colour": "white",
+            "rank": "optional memorial",
+            "rank_num": 3.12,
+            "id": "saturday_memorial_bvm"
+          }
+        ],
+        "vespers": {
+          "title": "25th Sunday in Ordinary Time",
+          "colour": "green",
+          "rank": "Sunday",
+          "rank_num": 2.6,
+          "id": null
+        },
+        "weekday": "saturday"
+      },
+      "response_date_header": "Fri, 18 Sep 2026 16:33:54 GMT"
+    }
+  ]
+}

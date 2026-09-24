@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='width: device-width, initial-scale: 1' name='viewport'>
+<title>Church Calendar API</title>
+<!-- jquery -->
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
+<!-- bootstrap -->
+<link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' rel='stylesheet'>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'></script>
+<link href='/style.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<nav class='navbar navbar-default'>
+<div class='container'>
+<ul class='nav navbar-nav'>
+<li>
+<a href='/'>Home</a>
+</li>
+<li>
+<a href='/browse'>Browse Calendar</a>
+</li>
+<li>
+<a href='/api-doc'>API Documentation</a>
+</li>
+<li>
+<a href='/about'>About</a>
+</li>
+</ul>
+<ul class='nav navbar-nav pull-right'>
+<li>
+<a href='https://github.com/igneus/church-calendar-api'>Fork me at Github</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class='container'>
+<div class='page-header'>
+<h1>Browse Church Calendar</h1>
+</div>
+<h2>US Calendar</h2>
+<p>
+<div class='dropdown'>
+<button class='btn btn-default dropdown-toggle' data-toggle='dropdown' id='select-calendar' type='button'>
+Select Calendar
+<span class='caret'></span>
+</button>
+<ul class='dropdown-menu'>
+<li>
+<a href='/browse/general-en'>General Roman Calendar</a>
+</li>
+<li>
+<a href='/browse/general-la'>Calendarium Romanum Generale</a>
+</li>
+<li>
+<a href='/browse/general-fr'>Calendrier Général Romain</a>
+</li>
+<li>
+<a href='/browse/general-it'>Calendario Romano Generale</a>
+</li>
+<li>
+<a href='/browse/general-es'>Calendario Romano General</a>
+</li>
+<li>
+<a href='/browse/us'>US Calendar</a>
+</li>
+<li>
+<a href='/browse/us-ascension'>US Calendar (Boston, Hartford, New York, Newark, Omaha, and Philadelphia)</a>
+</li>
+<li>
+<a href='/browse/us-boston'>US Calendar (Boston, Hartford, New York, Newark, Omaha, and Philadelphia)</a>
+</li>
+<li>
+<a href='/browse/us-hartford'>US Calendar (Boston, Hartford, New York, Newark, Omaha, and Philadelphia)</a>
+</li>
+<li>
+<a href='/browse/us-new-york'>US Calendar (Boston, Hartford, New York, Newark, Omaha, and Philadelphia)</a>
+</li>
+<li>
+<a href='/browse/us-newark'>US Calendar (Boston, Hartford, New York, Newark, Omaha, and Philadelphia)</a>
+</li>
+<li>
+<a href='/browse/us-omaha'>US Calendar (Boston, Hartford, New York, Newark, Omaha, and Philadelphia)</a>
+</li>
+<li>
+<a href='/browse/us-philadelphia'>US Calendar (Boston, Hartford, New York, Newark, Omaha, and Philadelphia)</a>
+</li>
+<li>
+<a href='/browse/czech'>Český národní kalendář</a>
+</li>
+<li>
+<a href='/browse/czech-cechy'>kalendář české církevní provincie</a>
+</li>
+<li>
+<a href='/browse/czech-morava'>kalendář moravské církevní provincie</a>
+</li>
+<li>
+<a href='/browse/czech-pha'>kalendář pražské arcidiecéze</a>
+</li>
+<li>
+<a href='/browse/czech-ltm'>kalendář litoměřické diecéze</a>
+</li>
+<li>
+<a href='/browse/czech-hk'>kalendář královéhradecké diecéze</a>
+</li>
+<li>
+<a href='/browse/czech-cb'>kalendář českobudějovické diecéze</a>
+</li>
+<li>
+<a href='/browse/czech-plz'>kalendář plzeňské diecéze</a>
+</li>
+<li>
+<a href='/browse/czech-olm'>kalendář olomoucké arcidiecéze</a>
+</li>
+<li>
+<a href='/browse/czech-brn'>kalendář brněnské diecéze</a>
+</li>
+<li>
+<a href='/browse/czech-oo'>kalendář ostravsko-opavské diecéze</a>
+</li>
+<li>
+<a href='/browse/default'>Calendarium Romanum Generale</a>
+</li>
+</ul>
+</div>
+</p>
+
+<nav>
+<ul class='pagination'>
+<li>
+<a href='/browse/us/2026/8'>&laquo;</a>
+</li>
+<li>
+<a href='/browse/us/2026/1'>1</a>
+</li>
+<li>
+<a href='/browse/us/2026/2'>2</a>
+</li>
+<li>
+<a href='/browse/us/2026/3'>3</a>
+</li>
+<li>
+<a href='/browse/us/2026/4'>4</a>
+</li>
+<li>
+<a href='/browse/us/2026/5'>5</a>
+</li>
+<li>
+<a href='/browse/us/2026/6'>6</a>
+</li>
+<li>
+<a href='/browse/us/2026/7'>7</a>
+</li>
+<li>
+<a href='/browse/us/2026/8'>8</a>
+</li>
+<li class='active'>
+<a href='/browse/us/2026/9'>9</a>
+</li>
+<li>
+<a href='/browse/us/2026/10'>10</a>
+</li>
+<li>
+<a href='/browse/us/2026/11'>11</a>
+</li>
+<li>
+<a href='/browse/us/2026/12'>12</a>
+</li>
+<li>
+<a href='/browse/us/2026/10'>&raquo;</a>
+</li>
+</ul>
+</nav>
+<h2>2026 / 9</h2>
+<table class='table table-striped'>
+<tr id='1'>
+<td class='tar'>1</td>
+<td>Tuesday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Tuesday of the 22nd Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='2'>
+<td class='tar'>2</td>
+<td>Wednesday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Wednesday of the 22nd Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='3'>
+<td class='tar'>3</td>
+<td>Thursday</td>
+<td>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saint Gregory the Great, Pope and Doctor of the Church, memorial
+</div>
+</td>
+</tr>
+<tr id='4'>
+<td class='tar'>4</td>
+<td>Friday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Friday of the 22nd Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='5'>
+<td class='tar'>5</td>
+<td>Saturday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Saturday of the 22nd Week in Ordinary Time, ferial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saint Teresa of Calcutta, Virgin, optional memorial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Mass for the Blessed Virgin Mary on Saturday, optional memorial
+</div>
+</td>
+</tr>
+<tr id='6'>
+<td class='tar'>6</td>
+<td>Sunday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+23rd Sunday in Ordinary Time, Sunday
+</div>
+</td>
+</tr>
+<tr id='7'>
+<td class='tar'>7</td>
+<td>Monday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Monday of the 23rd Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='8'>
+<td class='tar'>8</td>
+<td>Tuesday</td>
+<td>
+<div>
+<span class='celebration white'>&nbsp;</span>
+The Nativity of the Blessed Virgin Mary, feast
+</div>
+</td>
+</tr>
+<tr id='9'>
+<td class='tar'>9</td>
+<td>Wednesday</td>
+<td>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saint Peter Claver, Priest, memorial
+</div>
+</td>
+</tr>
+<tr id='10'>
+<td class='tar'>10</td>
+<td>Thursday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Thursday of the 23rd Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='11'>
+<td class='tar'>11</td>
+<td>Friday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Friday of the 23rd Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='12'>
+<td class='tar'>12</td>
+<td>Saturday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Saturday of the 23rd Week in Ordinary Time, ferial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+The Most Holy Name of Mary, optional memorial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Mass for the Blessed Virgin Mary on Saturday, optional memorial
+</div>
+</td>
+</tr>
+<tr id='13'>
+<td class='tar'>13</td>
+<td>Sunday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+24th Sunday in Ordinary Time, Sunday
+</div>
+</td>
+</tr>
+<tr id='14'>
+<td class='tar'>14</td>
+<td>Monday</td>
+<td>
+<div>
+<span class='celebration red'>&nbsp;</span>
+The Exaltation of the Holy Cross, feast
+</div>
+</td>
+</tr>
+<tr id='15'>
+<td class='tar'>15</td>
+<td>Tuesday</td>
+<td>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Our Lady of Sorrows, memorial
+</div>
+</td>
+</tr>
+<tr id='16'>
+<td class='tar'>16</td>
+<td>Wednesday</td>
+<td>
+<div>
+<span class='celebration red'>&nbsp;</span>
+Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs, memorial
+</div>
+</td>
+</tr>
+<tr id='17'>
+<td class='tar'>17</td>
+<td>Thursday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Thursday of the 24th Week in Ordinary Time, ferial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saint Robert Bellarmine, Bishop and Doctor of the Church, optional memorial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saint Hildegard of Bingen, Virgin and Doctor of the Church, optional memorial
+</div>
+</td>
+</tr>
+<tr id='18'>
+<td class='tar'>18</td>
+<td>Friday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Friday of the 24th Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='19'>
+<td class='tar'>19</td>
+<td>Saturday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Saturday of the 24th Week in Ordinary Time, ferial
+</div>
+<div>
+<span class='celebration red'>&nbsp;</span>
+Saint Januarius, Bishop and Martyr, optional memorial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Mass for the Blessed Virgin Mary on Saturday, optional memorial
+</div>
+</td>
+</tr>
+<tr id='20'>
+<td class='tar'>20</td>
+<td>Sunday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+25th Sunday in Ordinary Time, Sunday
+</div>
+</td>
+</tr>
+<tr id='21'>
+<td class='tar'>21</td>
+<td>Monday</td>
+<td>
+<div>
+<span class='celebration red'>&nbsp;</span>
+Saint Matthew, Apostle and Evangelist, feast
+</div>
+</td>
+</tr>
+<tr id='22'>
+<td class='tar'>22</td>
+<td>Tuesday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Tuesday of the 25th Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='23'>
+<td class='tar'>23</td>
+<td>Wednesday</td>
+<td>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saint Pius of Pietrelcina, Priest, memorial
+</div>
+</td>
+</tr>
+<tr id='24'>
+<td class='tar'>24</td>
+<td>Thursday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Thursday of the 25th Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='25'>
+<td class='tar'>25</td>
+<td>Friday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Friday of the 25th Week in Ordinary Time, ferial
+</div>
+</td>
+</tr>
+<tr id='26'>
+<td class='tar'>26</td>
+<td>Saturday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Saturday of the 25th Week in Ordinary Time, ferial
+</div>
+<div>
+<span class='celebration red'>&nbsp;</span>
+Saints Cosmas and Damian, Martyrs, optional memorial
+</div>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Mass for the Blessed Virgin Mary on Saturday, optional memorial
+</div>
+</td>
+</tr>
+<tr id='27'>
+<td class='tar'>27</td>
+<td>Sunday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+26th Sunday in Ordinary Time, Sunday
+</div>
+</td>
+</tr>
+<tr id='28'>
+<td class='tar'>28</td>
+<td>Monday</td>
+<td>
+<div>
+<span class='celebration green'>&nbsp;</span>
+Monday of the 26th Week in Ordinary Time, ferial
+</div>
+<div>
+<span class='celebration red'>&nbsp;</span>
+Saint Wenceslaus, Martyr, optional memorial
+</div>
+<div>
+<span class='celebration red'>&nbsp;</span>
+Saint Lawrence Ruiz and Companions, Martyrs, optional memorial
+</div>
+</td>
+</tr>
+<tr id='29'>
+<td class='tar'>29</td>
+<td>Tuesday</td>
+<td>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saints Michael, Gabriel and Raphael, Archangels, feast
+</div>
+</td>
+</tr>
+<tr id='30'>
+<td class='tar'>30</td>
+<td>Wednesday</td>
+<td>
+<div>
+<span class='celebration white'>&nbsp;</span>
+Saint Jerome, Priest and Doctor of the Church, memorial
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+</body>
+</html>

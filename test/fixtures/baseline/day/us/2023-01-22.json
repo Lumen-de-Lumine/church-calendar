@@ -1,0 +1,19 @@
+{
+  "date": "2023-01-22",
+  "season": "ordinary",
+  "season_week": 3,
+  "cycle": "A",
+  "cycle_sunday": "A",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "3rd Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

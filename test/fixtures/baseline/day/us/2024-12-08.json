@@ -1,0 +1,19 @@
+{
+  "date": "2024-12-08",
+  "season": "advent",
+  "season_week": 2,
+  "cycle": "C",
+  "cycle_sunday": "C",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "2nd Sunday of Advent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

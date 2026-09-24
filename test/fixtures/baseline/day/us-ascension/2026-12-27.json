@@ -1,0 +1,19 @@
+{
+  "date": "2026-12-27",
+  "season": "christmas",
+  "season_week": 1,
+  "cycle": "B",
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "The Holy Family of Jesus, Mary and Joseph",
+      "colour": "white",
+      "rank": "feast",
+      "rank_num": 2.5,
+      "id": "holy_family"
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

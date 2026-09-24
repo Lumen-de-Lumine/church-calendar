@@ -1,0 +1,719 @@
+[
+  {
+    "date": "2026-05-01",
+    "season": "easter",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 4th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Joseph the Worker",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "joseph_worker"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-05-02",
+    "season": "easter",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Athanasius, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "athanasius"
+      }
+    ],
+    "vespers": {
+      "title": "5th Sunday of Easter",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-05-03",
+    "season": "easter",
+    "season_week": 5,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "5th Sunday of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-05-04",
+    "season": "easter",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 5th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-05-05",
+    "season": "easter",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 5th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-05-06",
+    "season": "easter",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 5th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-05-07",
+    "season": "easter",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 5th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-05-08",
+    "season": "easter",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 5th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-05-09",
+    "season": "easter",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 5th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": {
+      "title": "6th Sunday of Easter",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-05-10",
+    "season": "easter",
+    "season_week": 6,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "6th Sunday of Easter",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-05-11",
+    "season": "easter",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 6th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-05-12",
+    "season": "easter",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 6th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saints Nereus and Achilleus, Martyrs",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "nereus_achilleus"
+      },
+      {
+        "title": "Saint Pancras, Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "pancras"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-05-13",
+    "season": "easter",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 6th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Our Lady of Fatima",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bvm_fatima"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-05-14",
+    "season": "easter",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Matthias, Apostle",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "matthias"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-05-15",
+    "season": "easter",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 6th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Isidore",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "isidore_the_farmer"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-05-16",
+    "season": "easter",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 6th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "The Ascension of the Lord: At the Vigil Mass",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "ascension_vigil"
+      }
+    ],
+    "vespers": {
+      "title": "The Ascension of the Lord",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "ascension"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-05-17",
+    "season": "easter",
+    "season_week": 7,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Ascension of the Lord",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "ascension"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-05-18",
+    "season": "easter",
+    "season_week": 7,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 7th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint John I, Pope and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "john_i"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-05-19",
+    "season": "easter",
+    "season_week": 7,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 7th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-05-20",
+    "season": "easter",
+    "season_week": 7,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 7th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Bernardine of Siena, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bernardine"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-05-21",
+    "season": "easter",
+    "season_week": 7,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 7th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Christopher Magallanes, Priest, and Companions, Martyrs",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "magallanes"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-05-22",
+    "season": "easter",
+    "season_week": 7,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 7th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Rita of Cascia, Religious",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "rita"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-05-23",
+    "season": "easter",
+    "season_week": 7,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 7th week of Easter",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Pentecost Sunday: At the Vigil Mass",
+        "colour": "red",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "pentecost_vigil"
+      }
+    ],
+    "vespers": {
+      "title": "Pentecost Sunday",
+      "colour": "red",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "pentecost"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-05-24",
+    "season": "easter",
+    "season_week": 8,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Pentecost Sunday",
+        "colour": "red",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "pentecost"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-05-25",
+    "season": "ordinary",
+    "season_week": 8,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Blessed Virgin Mary, Mother of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "mother_of_church"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-05-26",
+    "season": "ordinary",
+    "season_week": 8,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Philip Neri, Priest",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "neri"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-05-27",
+    "season": "ordinary",
+    "season_week": 8,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 8th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Augustine of Canterbury, Bishop",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "augustine_of_canterbury"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-05-28",
+    "season": "ordinary",
+    "season_week": 8,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 8th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-05-29",
+    "season": "ordinary",
+    "season_week": 8,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 8th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Paul VI, Pope",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "paul_vi"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-05-30",
+    "season": "ordinary",
+    "season_week": 8,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 8th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "The Most Holy Trinity",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "holy_trinity"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-05-31",
+    "season": "ordinary",
+    "season_week": 9,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Most Holy Trinity",
+        "colour": "white",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "holy_trinity"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  }
+]

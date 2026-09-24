@@ -1,0 +1,19 @@
+{
+  "date": "2017-03-19",
+  "season": "lent",
+  "season_week": 3,
+  "cycle": "A",
+  "cycle_sunday": "A",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "3rd Sunday of Lent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

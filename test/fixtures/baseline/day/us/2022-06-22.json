@@ -1,0 +1,33 @@
+{
+  "date": "2022-06-22",
+  "season": "ordinary",
+  "season_week": 12,
+  "cycle": 2,
+  "cycle_sunday": "C",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Wednesday of the 12th Week in Ordinary Time",
+      "colour": "green",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "Saint Paulinus of Nola, Bishop",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "paulinus"
+    },
+    {
+      "title": "Saints John Fisher, Bishop, and Thomas More, Martyrs",
+      "colour": "red",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "fisher_more"
+    }
+  ],
+  "vespers": null,
+  "weekday": "wednesday"
+}

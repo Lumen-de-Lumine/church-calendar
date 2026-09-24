@@ -1,0 +1,26 @@
+{
+  "date": "2027-01-07",
+  "season": "christmas",
+  "season_week": 2,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "Thursday after Epiphany",
+      "colour": "white",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "Saint Raymond of Penyafort, Priest",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "raymond"
+    }
+  ],
+  "vespers": null,
+  "weekday": "thursday"
+}

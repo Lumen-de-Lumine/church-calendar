@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-14",
+  "season": "easter",
+  "season_week": 6,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Saint Matthias, Apostle",
+      "colour": "red",
+      "rank": "feast",
+      "rank_num": 2.7,
+      "id": "matthias"
+    }
+  ],
+  "vespers": null,
+  "weekday": "thursday"
+}

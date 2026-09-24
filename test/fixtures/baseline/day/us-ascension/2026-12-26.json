@@ -1,0 +1,25 @@
+{
+  "date": "2026-12-26",
+  "season": "christmas",
+  "season_week": 0,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "Saint Stephen, the First Martyr",
+      "colour": "red",
+      "rank": "feast",
+      "rank_num": 2.7,
+      "id": "stephen"
+    }
+  ],
+  "vespers": {
+    "title": "The Holy Family of Jesus, Mary and Joseph",
+    "colour": "white",
+    "rank": "feast",
+    "rank_num": 2.5,
+    "id": "holy_family"
+  },
+  "weekday": "saturday"
+}

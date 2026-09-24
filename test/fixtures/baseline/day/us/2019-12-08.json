@@ -1,0 +1,19 @@
+{
+  "date": "2019-12-08",
+  "season": "advent",
+  "season_week": 2,
+  "cycle": "A",
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "2nd Sunday of Advent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

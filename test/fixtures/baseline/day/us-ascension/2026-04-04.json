@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-04",
+  "season": "lent",
+  "season_week": 6,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Holy Saturday",
+      "colour": "violet",
+      "rank": "Easter triduum",
+      "rank_num": 1.1,
+      "id": "holy_saturday"
+    },
+    {
+      "title": "Easter Sunday of the Resurrection of the Lord: The Easter Vigil in the Holy Night",
+      "colour": "white",
+      "rank": "Easter triduum",
+      "rank_num": 1.1,
+      "id": "easter_sunday_vigil"
+    }
+  ],
+  "vespers": {
+    "title": "Easter Sunday of the Resurrection of the Lord",
+    "colour": "white",
+    "rank": "Easter triduum",
+    "rank_num": 1.1,
+    "id": "easter_sunday"
+  },
+  "weekday": "saturday"
+}

@@ -1,0 +1,696 @@
+[
+  {
+    "date": "2026-12-01",
+    "season": "advent",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 1st Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-12-02",
+    "season": "advent",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 1st Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-12-03",
+    "season": "advent",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Saint Francis Xavier, Priest",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "francis_xavier"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-12-04",
+    "season": "advent",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Friday of the 1st Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint John Damascene, Priest and Doctor of the Church",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "john_damascene"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-12-05",
+    "season": "advent",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Saturday of the 1st Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": {
+      "title": "2nd Sunday of Advent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-12-06",
+    "season": "advent",
+    "season_week": 2,
+    "cycle": "B",
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "2nd Sunday of Advent",
+        "colour": "violet",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-12-07",
+    "season": "advent",
+    "season_week": 2,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Saint Ambrose, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "ambrose"
+      }
+    ],
+    "vespers": {
+      "title": "The Immaculate Conception of the Blessed Virgin Mary",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "bvm_immaculate"
+    },
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-12-08",
+    "season": "advent",
+    "season_week": 2,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "The Immaculate Conception of the Blessed Virgin Mary",
+        "colour": "white",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "bvm_immaculate"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-12-09",
+    "season": "advent",
+    "season_week": 2,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 2nd Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Juan Diego Cuauhtlatoatzin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "juan_diego"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-12-10",
+    "season": "advent",
+    "season_week": 2,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Thursday of the 2nd Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Our Lady of Loreto",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bvm_loreto"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-12-11",
+    "season": "advent",
+    "season_week": 2,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Friday of the 2nd Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Damasus I, Pope",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "damasus_i"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-12-12",
+    "season": "advent",
+    "season_week": 2,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Our Lady of Guadalupe",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "bvm_guadalupe"
+      }
+    ],
+    "vespers": {
+      "title": "3rd Sunday of Advent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-12-13",
+    "season": "advent",
+    "season_week": 3,
+    "cycle": "B",
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "3rd Sunday of Advent",
+        "colour": "violet",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-12-14",
+    "season": "advent",
+    "season_week": 3,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Saint John of the Cross, Priest and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "john_of_cross"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-12-15",
+    "season": "advent",
+    "season_week": 3,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 3rd Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-12-16",
+    "season": "advent",
+    "season_week": 3,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 3rd Week of Advent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-12-17",
+    "season": "advent",
+    "season_week": 3,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "December 17th",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "advent_thursday_december17"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-12-18",
+    "season": "advent",
+    "season_week": 3,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "December 18th",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "advent_friday_december18"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-12-19",
+    "season": "advent",
+    "season_week": 3,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "December 19th",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "advent_saturday_december19"
+      }
+    ],
+    "vespers": {
+      "title": "4th Sunday of Advent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-12-20",
+    "season": "advent",
+    "season_week": 4,
+    "cycle": "B",
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "4th Sunday of Advent",
+        "colour": "violet",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-12-21",
+    "season": "advent",
+    "season_week": 4,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "December 21st",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "advent_monday_december21"
+      },
+      {
+        "title": "Saint Peter Canisius, Priest and Doctor of the Church",
+        "colour": "violet",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "canisius"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-12-22",
+    "season": "advent",
+    "season_week": 4,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "December 22nd",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "advent_tuesday_december22"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-12-23",
+    "season": "advent",
+    "season_week": 4,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "December 23rd",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "advent_wednesday_december23"
+      },
+      {
+        "title": "Saint John of Kanty, Priest",
+        "colour": "violet",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "john_of_kanty"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-12-24",
+    "season": "advent",
+    "season_week": 4,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "December 24th",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "advent_thursday_december24"
+      },
+      {
+        "title": "The Nativity of the Lord [CHRISTMAS]: At the Vigil Mass",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "nativity_vigil"
+      }
+    ],
+    "vespers": {
+      "title": "The Nativity of the Lord [CHRISTMAS]",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "nativity"
+    },
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-12-25",
+    "season": "christmas",
+    "season_week": 0,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "The Nativity of the Lord [CHRISTMAS]",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "nativity"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-12-26",
+    "season": "christmas",
+    "season_week": 0,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Saint Stephen, the First Martyr",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "stephen"
+      }
+    ],
+    "vespers": {
+      "title": "The Holy Family of Jesus, Mary and Joseph",
+      "colour": "white",
+      "rank": "feast",
+      "rank_num": 2.5,
+      "id": "holy_family"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-12-27",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": "B",
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "The Holy Family of Jesus, Mary and Joseph",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.5,
+        "id": "holy_family"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-12-28",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "The Holy Innocents, Martyrs",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "innocents"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-12-29",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "5th Day within the Octave of the Nativity of the Lord [Christmas]",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "christmas_octave_5"
+      },
+      {
+        "title": "Saint Thomas Becket, Bishop and Martyr",
+        "colour": "white",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "becket"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-12-30",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "6th Day within the Octave of the Nativity of the Lord [Christmas]",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "christmas_octave_6"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-12-31",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "christmas_octave_7"
+      },
+      {
+        "title": "Saint Sylvester I, Pope",
+        "colour": "white",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "sylvester_i"
+      }
+    ],
+    "vespers": {
+      "title": "Solemnity of Mary, the Holy Mother of God",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "mother_of_god"
+    },
+    "weekday": "thursday"
+  }
+]

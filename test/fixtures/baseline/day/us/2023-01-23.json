@@ -1,0 +1,40 @@
+{
+  "date": "2023-01-23",
+  "season": "ordinary",
+  "season_week": 3,
+  "cycle": 1,
+  "cycle_sunday": "A",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "Monday of the 3rd Week in Ordinary Time",
+      "colour": "green",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "Saint Vincent, Deacon and Martyr",
+      "colour": "red",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "vincent_deacon"
+    },
+    {
+      "title": "Saint Marianne Cope, Virgin",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "marianne_cope"
+    },
+    {
+      "title": "Day of Prayer for the Legal Protection of Unborn Children",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "unborn_children"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2024-04-08",
+  "season": "easter",
+  "season_week": 2,
+  "cycle": 2,
+  "cycle_sunday": "B",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "The Annunciation of the Lord",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "annunciation"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}

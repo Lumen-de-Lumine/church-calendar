@@ -1,0 +1,40 @@
+{
+  "name": "church-calendar",
+  "version": "0.1.0",
+  "description": "Roman Catholic liturgical calendar (General Roman Calendar, US and Czech propers) as a zero-dependency TypeScript library and drop-in replacement for the Ruby church-calendar-api v0 JSON API.",
+  "license": "LGPL-3.0-or-later",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js" },
+    "./core": { "types": "./dist/core/index.d.ts", "import": "./dist/core/index.js" },
+    "./api": { "types": "./dist/api/index.d.ts", "import": "./dist/api/index.js" },
+    "./http": { "types": "./dist/http/index.d.ts", "import": "./dist/http/index.js" }
+  },
+  "files": ["dist", "bin", "lambda", "README.md", "LICENSE", "COPYING", "THIRD-PARTY-NOTICES.md"],
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node -e \"require('node:fs').rmSync('dist', { recursive: true, force: true })\" && tsc -p tsconfig.build.json",
+    "prepare": "npm run build",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch",
+    "sync-data": "node scripts/sync-data.mjs",
+    "capture-baseline": "node scripts/capture-baseline.mjs",
+    "start": "node bin/server.mjs"
+  },
+  "repository": { "type": "git", "url": "git+https://github.com/Lumen-de-Lumine/church-calendar.git" },
+  "homepage": "https://github.com/Lumen-de-Lumine/church-calendar#readme",
+  "bugs": { "url": "https://github.com/Lumen-de-Lumine/church-calendar/issues" },
+  "devDependencies": {
+    "@swc/core": "^1.13.0",
+    "@swc/jest": "^0.2.39",
+    "@types/jest": "^30.0.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^24.0.0",
+    "jest": "^30.5.0",
+    "js-yaml": "^4.1.0",
+    "typescript": "^5.9.3"
+  }
+}

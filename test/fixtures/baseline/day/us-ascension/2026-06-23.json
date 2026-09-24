@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-23",
+  "season": "ordinary",
+  "season_week": 12,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Tuesday of the 12th Week in Ordinary Time",
+      "colour": "green",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "The Nativity of Saint John the Baptist: At the Vigil Mass",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "baptist_birth_vigil"
+    }
+  ],
+  "vespers": {
+    "title": "The Nativity of Saint John the Baptist",
+    "colour": "white",
+    "rank": "solemnity",
+    "rank_num": 1.3,
+    "id": "baptist_birth"
+  },
+  "weekday": "tuesday"
+}

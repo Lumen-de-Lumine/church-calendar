@@ -1,0 +1,19 @@
+{
+  "date": "2026-12-22",
+  "season": "advent",
+  "season_week": 4,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "December 22nd",
+      "colour": "violet",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "advent_tuesday_december22"
+    }
+  ],
+  "vespers": null,
+  "weekday": "tuesday"
+}

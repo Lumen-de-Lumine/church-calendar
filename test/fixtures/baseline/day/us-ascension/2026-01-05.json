@@ -1,0 +1,19 @@
+{
+  "date": "2026-01-05",
+  "season": "christmas",
+  "season_week": 2,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Saint John Neumann, Bishop",
+      "colour": "white",
+      "rank": "memorial",
+      "rank_num": 3.1,
+      "id": "neumann"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}

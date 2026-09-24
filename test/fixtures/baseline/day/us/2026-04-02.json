@@ -1,0 +1,26 @@
+{
+  "date": "2026-04-02",
+  "season": "lent",
+  "season_week": 6,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+      "colour": "violet",
+      "rank": "Easter triduum",
+      "rank_num": 1.1,
+      "id": "holy_thursday"
+    },
+    {
+      "title": "Thursday of the Lord’s Supper: At the Evening Mass",
+      "colour": "violet",
+      "rank": "Easter triduum",
+      "rank_num": 1.1,
+      "id": "holy_thursday_evening"
+    }
+  ],
+  "vespers": null,
+  "weekday": "thursday"
+}

@@ -1,0 +1,740 @@
+[
+  {
+    "date": "2026-10-01",
+    "season": "ordinary",
+    "season_week": 26,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "therese_lisieux"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-10-02",
+    "season": "ordinary",
+    "season_week": 26,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Holy Guardian Angels",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "guardian_angels"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-10-03",
+    "season": "ordinary",
+    "season_week": 26,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 26th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "27th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-10-04",
+    "season": "ordinary",
+    "season_week": 27,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "27th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-10-05",
+    "season": "ordinary",
+    "season_week": 27,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 27th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Faustina Kowalska, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "faustina_kowalska"
+      },
+      {
+        "title": "Blessed Francis Xavier Seelos, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "francis_xavier_seelos"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-10-06",
+    "season": "ordinary",
+    "season_week": 27,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 27th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Bruno, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bruno"
+      },
+      {
+        "title": "Blessed Marie Rose Durocher, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "durocher"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-10-07",
+    "season": "ordinary",
+    "season_week": 27,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Our Lady of the Rosary",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "bvm_rosary"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-10-08",
+    "season": "ordinary",
+    "season_week": 27,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 27th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-10-09",
+    "season": "ordinary",
+    "season_week": 27,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 27th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Denis, Bishop, and Companions, Martyrs",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "denis"
+      },
+      {
+        "title": "Saint John Leonardi, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "leonardi"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-10-10",
+    "season": "ordinary",
+    "season_week": 27,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 27th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "28th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-10-11",
+    "season": "ordinary",
+    "season_week": 28,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "28th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-10-12",
+    "season": "ordinary",
+    "season_week": 28,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 28th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-10-13",
+    "season": "ordinary",
+    "season_week": 28,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 28th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-10-14",
+    "season": "ordinary",
+    "season_week": 28,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 28th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Callistus I, Pope and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "callistus_i"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-10-15",
+    "season": "ordinary",
+    "season_week": 28,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Teresa of Jesus, Virgin and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "teresa_avila"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-10-16",
+    "season": "ordinary",
+    "season_week": 28,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 28th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Hedwig, Religious",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "hedwig"
+      },
+      {
+        "title": "Saint Margaret Mary Alacoque, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "alacoque"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-10-17",
+    "season": "ordinary",
+    "season_week": 28,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Ignatius of Antioch, Bishop and Martyr",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "ignatius_of_antioch"
+      }
+    ],
+    "vespers": {
+      "title": "29th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-10-18",
+    "season": "ordinary",
+    "season_week": 29,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "29th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-10-19",
+    "season": "ordinary",
+    "season_week": 29,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "brebeuf_jogues"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-10-20",
+    "season": "ordinary",
+    "season_week": 29,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 29th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Paul of the Cross, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "paul_of_cross"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-10-21",
+    "season": "ordinary",
+    "season_week": 29,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 29th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-10-22",
+    "season": "ordinary",
+    "season_week": 29,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 29th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint John Paul II, Pope",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "john_paul_ii"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-10-23",
+    "season": "ordinary",
+    "season_week": 29,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 29th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint John of Capistrano, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "john_capistrano"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-10-24",
+    "season": "ordinary",
+    "season_week": 29,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 29th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Anthony Mary Claret, Bishop",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "claret"
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "30th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-10-25",
+    "season": "ordinary",
+    "season_week": 30,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "30th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-10-26",
+    "season": "ordinary",
+    "season_week": 30,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 30th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-10-27",
+    "season": "ordinary",
+    "season_week": 30,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 30th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-10-28",
+    "season": "ordinary",
+    "season_week": 30,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saints Simon and Jude, Apostles",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "simon_jude"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-10-29",
+    "season": "ordinary",
+    "season_week": 30,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 30th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-10-30",
+    "season": "ordinary",
+    "season_week": 30,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 30th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-10-31",
+    "season": "ordinary",
+    "season_week": 30,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 30th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "All Saints",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "all_saints"
+    },
+    "weekday": "saturday"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "date": "2027-01-03",
+  "season": "christmas",
+  "season_week": 2,
+  "cycle": "B",
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "The Epiphany of the Lord",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "epiphany"
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

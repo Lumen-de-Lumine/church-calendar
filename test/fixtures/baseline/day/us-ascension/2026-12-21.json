@@ -1,0 +1,26 @@
+{
+  "date": "2026-12-21",
+  "season": "advent",
+  "season_week": 4,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "December 21st",
+      "colour": "violet",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "advent_monday_december21"
+    },
+    {
+      "title": "Saint Peter Canisius, Priest and Doctor of the Church",
+      "colour": "violet",
+      "rank": "commemoration",
+      "rank_num": 4,
+      "id": "canisius"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}

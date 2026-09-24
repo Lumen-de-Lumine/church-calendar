@@ -1,0 +1,19 @@
+{
+  "date": "2024-03-25",
+  "season": "lent",
+  "season_week": 6,
+  "cycle": 2,
+  "cycle_sunday": "B",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Monday of Holy Week",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "lent_holy_monday"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}

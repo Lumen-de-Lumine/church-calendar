@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-26",
+  "season": "ordinary",
+  "season_week": 34,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Thursday of the 34th Week in Ordinary Time",
+      "colour": "green",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "Thanksgiving Day",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "thanksgiving"
+    }
+  ],
+  "vespers": null,
+  "weekday": "thursday"
+}

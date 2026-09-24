@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-03",
+  "season": "christmas",
+  "season_week": 1,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Saturday of Christmas Time: January 3",
+      "colour": "white",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "pre_epiphany_saturday_january3"
+    },
+    {
+      "title": "The Most Holy Name of Jesus",
+      "colour": "white",
+      "rank": "commemoration",
+      "rank_num": 4,
+      "id": "name_jesus"
+    },
+    {
+      "title": "The Epiphany of the Lord: At the Vigil Mass",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "epiphany_vigil"
+    }
+  ],
+  "vespers": {
+    "title": "The Epiphany of the Lord",
+    "colour": "white",
+    "rank": "Primary liturgical days",
+    "rank_num": 1.2,
+    "id": "epiphany"
+  },
+  "weekday": "saturday"
+}

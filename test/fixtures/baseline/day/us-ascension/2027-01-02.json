@@ -1,0 +1,39 @@
+{
+  "date": "2027-01-02",
+  "season": "christmas",
+  "season_week": 1,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "Saturday of Christmas Time: January 2",
+      "colour": "white",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "pre_epiphany_saturday_january2"
+    },
+    {
+      "title": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church",
+      "colour": "white",
+      "rank": "commemoration",
+      "rank_num": 4,
+      "id": "basil_gregory"
+    },
+    {
+      "title": "The Epiphany of the Lord: At the Vigil Mass",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "epiphany_vigil"
+    }
+  ],
+  "vespers": {
+    "title": "The Epiphany of the Lord",
+    "colour": "white",
+    "rank": "Primary liturgical days",
+    "rank_num": 1.2,
+    "id": "epiphany"
+  },
+  "weekday": "saturday"
+}

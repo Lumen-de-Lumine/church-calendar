@@ -1,0 +1,19 @@
+{
+  "date": "2026-12-30",
+  "season": "christmas",
+  "season_week": 1,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "6th Day within the Octave of the Nativity of the Lord [Christmas]",
+      "colour": "white",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "christmas_octave_6"
+    }
+  ],
+  "vespers": null,
+  "weekday": "wednesday"
+}

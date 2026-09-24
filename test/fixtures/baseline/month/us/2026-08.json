@@ -1,0 +1,684 @@
+[
+  {
+    "date": "2026-08-01",
+    "season": "ordinary",
+    "season_week": 17,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "alphonsus"
+      }
+    ],
+    "vespers": {
+      "title": "18th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-08-02",
+    "season": "ordinary",
+    "season_week": 18,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "18th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-08-03",
+    "season": "ordinary",
+    "season_week": 18,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 18th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-08-04",
+    "season": "ordinary",
+    "season_week": 18,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint John Vianney, Priest",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "vianney"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-08-05",
+    "season": "ordinary",
+    "season_week": 18,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 18th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "The Dedication of the Basilica of Saint Mary Major",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "mary_major"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-08-06",
+    "season": "ordinary",
+    "season_week": 18,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Transfiguration of the Lord",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.5,
+        "id": "transfiguration"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-08-07",
+    "season": "ordinary",
+    "season_week": 18,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 18th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Sixtus II, Pope, and Companions, Martyrs",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "sixtus_ii"
+      },
+      {
+        "title": "Saint Cajetan, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "cajetan"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-08-08",
+    "season": "ordinary",
+    "season_week": 18,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Dominic, Priest",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "dominic"
+      }
+    ],
+    "vespers": {
+      "title": "19th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-08-09",
+    "season": "ordinary",
+    "season_week": 19,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "19th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-08-10",
+    "season": "ordinary",
+    "season_week": 19,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Lawrence, Deacon and Martyr",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "lawrence"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-08-11",
+    "season": "ordinary",
+    "season_week": 19,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Clare, Virgin",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "clare"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-08-12",
+    "season": "ordinary",
+    "season_week": 19,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 19th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Jane Frances de Chantal, Religious",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "de_chantal"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-08-13",
+    "season": "ordinary",
+    "season_week": 19,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 19th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saints Pontian, Pope, and Hippolytus, Priest, Martyrs",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "pontian_hippolytus"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-08-14",
+    "season": "ordinary",
+    "season_week": 19,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Maximilian Kolbe, Priest and Martyr",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "kolbe"
+      },
+      {
+        "title": "The Assumption of the Blessed Virgin Mary: At the Vigil Mass",
+        "colour": "white",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "assumption_vigil"
+      }
+    ],
+    "vespers": {
+      "title": "The Assumption of the Blessed Virgin Mary",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "assumption"
+    },
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-08-15",
+    "season": "ordinary",
+    "season_week": 19,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Assumption of the Blessed Virgin Mary",
+        "colour": "white",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "assumption"
+      }
+    ],
+    "vespers": null,
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-08-16",
+    "season": "ordinary",
+    "season_week": 20,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "20th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-08-17",
+    "season": "ordinary",
+    "season_week": 20,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 20th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-08-18",
+    "season": "ordinary",
+    "season_week": 20,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 20th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-08-19",
+    "season": "ordinary",
+    "season_week": 20,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 20th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint John Eudes, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "eudes"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-08-20",
+    "season": "ordinary",
+    "season_week": 20,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Bernard, Abbot and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "bernard"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-08-21",
+    "season": "ordinary",
+    "season_week": 20,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Pius X, Pope",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "pius_x"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-08-22",
+    "season": "ordinary",
+    "season_week": 20,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Queenship of the Blessed Virgin Mary",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "bvm_queenship"
+      }
+    ],
+    "vespers": {
+      "title": "21st Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-08-23",
+    "season": "ordinary",
+    "season_week": 21,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "21st Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-08-24",
+    "season": "ordinary",
+    "season_week": 21,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Bartholomew, Apostle",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "bartholomew"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-08-25",
+    "season": "ordinary",
+    "season_week": 21,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 21st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Louis",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "louis"
+      },
+      {
+        "title": "Saint Joseph Calasanz, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "joseph_calasanz"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-08-26",
+    "season": "ordinary",
+    "season_week": 21,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 21st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-08-27",
+    "season": "ordinary",
+    "season_week": 21,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Monica",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "monica"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-08-28",
+    "season": "ordinary",
+    "season_week": 21,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Augustine, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "augustine"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-08-29",
+    "season": "ordinary",
+    "season_week": 21,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Passion of Saint John the Baptist",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "baptist_beheading"
+      }
+    ],
+    "vespers": {
+      "title": "22nd Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-08-30",
+    "season": "ordinary",
+    "season_week": 22,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "22nd Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-08-31",
+    "season": "ordinary",
+    "season_week": 22,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 22nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  }
+]

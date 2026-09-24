@@ -1,0 +1,680 @@
+[
+  {
+    "date": "2026-09-01",
+    "season": "ordinary",
+    "season_week": 22,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 22nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-09-02",
+    "season": "ordinary",
+    "season_week": 22,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 22nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-09-03",
+    "season": "ordinary",
+    "season_week": 22,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Gregory the Great, Pope and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "gregory_great"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-09-04",
+    "season": "ordinary",
+    "season_week": 22,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 22nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-09-05",
+    "season": "ordinary",
+    "season_week": 22,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 22nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Teresa of Calcutta, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "mother_teresa"
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "23rd Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-09-06",
+    "season": "ordinary",
+    "season_week": 23,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "23rd Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-09-07",
+    "season": "ordinary",
+    "season_week": 23,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 23rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-09-08",
+    "season": "ordinary",
+    "season_week": 23,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Nativity of the Blessed Virgin Mary",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "bvm_birth"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-09-09",
+    "season": "ordinary",
+    "season_week": 23,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Peter Claver, Priest",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "claver"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-09-10",
+    "season": "ordinary",
+    "season_week": 23,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 23rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-09-11",
+    "season": "ordinary",
+    "season_week": 23,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 23rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-09-12",
+    "season": "ordinary",
+    "season_week": 23,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 23rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "The Most Holy Name of Mary",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bvm_name"
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "24th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-09-13",
+    "season": "ordinary",
+    "season_week": 24,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "24th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-09-14",
+    "season": "ordinary",
+    "season_week": 24,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Exaltation of the Holy Cross",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.5,
+        "id": "cross"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-09-15",
+    "season": "ordinary",
+    "season_week": 24,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Our Lady of Sorrows",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "bvm_sorrows"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-09-16",
+    "season": "ordinary",
+    "season_week": 24,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "cornelius_cyprian"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-09-17",
+    "season": "ordinary",
+    "season_week": 24,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 24th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Robert Bellarmine, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bellarmine"
+      },
+      {
+        "title": "Saint Hildegard of Bingen, Virgin and Doctor of the Church",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "hildegard"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-09-18",
+    "season": "ordinary",
+    "season_week": 24,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 24th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-09-19",
+    "season": "ordinary",
+    "season_week": 24,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 24th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Januarius, Bishop and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "januarius"
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "25th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-09-20",
+    "season": "ordinary",
+    "season_week": 25,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "25th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-09-21",
+    "season": "ordinary",
+    "season_week": 25,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Matthew, Apostle and Evangelist",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "matthew"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-09-22",
+    "season": "ordinary",
+    "season_week": 25,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 25th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-09-23",
+    "season": "ordinary",
+    "season_week": 25,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Pius of Pietrelcina, Priest",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "padre_pio"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-09-24",
+    "season": "ordinary",
+    "season_week": 25,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 25th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-09-25",
+    "season": "ordinary",
+    "season_week": 25,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 25th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-09-26",
+    "season": "ordinary",
+    "season_week": 25,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 25th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saints Cosmas and Damian, Martyrs",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "cosmas_damian"
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "26th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-09-27",
+    "season": "ordinary",
+    "season_week": 26,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "26th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-09-28",
+    "season": "ordinary",
+    "season_week": 26,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 26th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Wenceslaus, Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "wenceslaus"
+      },
+      {
+        "title": "Saint Lawrence Ruiz and Companions, Martyrs",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "ruiz"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-09-29",
+    "season": "ordinary",
+    "season_week": 26,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saints Michael, Gabriel and Raphael, Archangels",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "archangels"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-09-30",
+    "season": "ordinary",
+    "season_week": 26,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Jerome, Priest and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "jerome"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  }
+]

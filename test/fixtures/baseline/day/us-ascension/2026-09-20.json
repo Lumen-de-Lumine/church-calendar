@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-20",
+  "season": "ordinary",
+  "season_week": 25,
+  "cycle": "A",
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "25th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    }
+  ],
+  "vespers": null,
+  "weekday": "sunday"
+}

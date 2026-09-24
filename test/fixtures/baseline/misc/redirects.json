@@ -1,0 +1,41 @@
+{
+  "note": "Redirects are NOT followed.",
+  "entries": [
+    {
+      "url": "/api/v0/en/today",
+      "status": 301,
+      "content_type": "text/plain",
+      "bytes": 81,
+      "sha256": "f52c303fca861781baf5dcc3b37d1b21c5f9ee26e6f632de384913af79ab564b",
+      "location": "/api/v0/en/calendars/default/today",
+      "body_text": "\"This resource has been moved permanently to /api/v0/en/calendars/default/today.\""
+    },
+    {
+      "url": "/api/v0/en/2014",
+      "status": 301,
+      "content_type": "text/plain",
+      "bytes": 80,
+      "sha256": "cecc35980e0bc1985a46bd53e1fdc3a15fcb49d9a76f429a4fe307cf6d08153b",
+      "location": "/api/v0/en/calendars/default/2014",
+      "body_text": "\"This resource has been moved permanently to /api/v0/en/calendars/default/2014.\""
+    },
+    {
+      "url": "/api/v0/en/2014/5",
+      "status": 301,
+      "content_type": "text/plain",
+      "bytes": 82,
+      "sha256": "6f73fc8dbb172f230cd9da88e7c20a7c4ea44718a5df87de9e2dc0b657e79328",
+      "location": "/api/v0/en/calendars/default/2014/5",
+      "body_text": "\"This resource has been moved permanently to /api/v0/en/calendars/default/2014/5.\""
+    },
+    {
+      "url": "/api/v0/en/2014/5/5",
+      "status": 301,
+      "content_type": "text/plain",
+      "bytes": 84,
+      "sha256": "6658fca485b302ad8eac1f287f5a772b52fbd3735ba8634a6080f768506fd4c1",
+      "location": "/api/v0/en/calendars/default/2014/5/5",
+      "body_text": "\"This resource has been moved permanently to /api/v0/en/calendars/default/2014/5/5.\""
+    }
+  ]
+}

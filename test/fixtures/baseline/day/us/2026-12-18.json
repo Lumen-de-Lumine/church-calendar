@@ -1,0 +1,19 @@
+{
+  "date": "2026-12-18",
+  "season": "advent",
+  "season_week": 3,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "December 18th",
+      "colour": "violet",
+      "rank": "ferial",
+      "rank_num": 2.9,
+      "id": "advent_friday_december18"
+    }
+  ],
+  "vespers": null,
+  "weekday": "friday"
+}

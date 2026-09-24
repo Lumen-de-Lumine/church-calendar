@@ -1,0 +1,705 @@
+[
+  {
+    "date": "2026-01-01",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Solemnity of Mary, the Holy Mother of God",
+        "colour": "white",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "mother_of_god"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-01-02",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of Christmas Time: January 2",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "pre_epiphany_friday_january2"
+      },
+      {
+        "title": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church",
+        "colour": "white",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "basil_gregory"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-01-03",
+    "season": "christmas",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of Christmas Time: January 3",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": "pre_epiphany_saturday_january3"
+      },
+      {
+        "title": "The Most Holy Name of Jesus",
+        "colour": "white",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "name_jesus"
+      },
+      {
+        "title": "The Epiphany of the Lord: At the Vigil Mass",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "epiphany_vigil"
+      }
+    ],
+    "vespers": {
+      "title": "The Epiphany of the Lord",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "epiphany"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-01-04",
+    "season": "christmas",
+    "season_week": 2,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Epiphany of the Lord",
+        "colour": "white",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "epiphany"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-01-05",
+    "season": "christmas",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint John Neumann, Bishop",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "neumann"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-01-06",
+    "season": "christmas",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday after Epiphany",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint André Bessette, Religious",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bessette"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-01-07",
+    "season": "christmas",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday after Epiphany",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Raymond of Penyafort, Priest",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "raymond"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-01-08",
+    "season": "christmas",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday after Epiphany",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-01-09",
+    "season": "christmas",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday after Epiphany",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-01-10",
+    "season": "christmas",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday after Epiphany",
+        "colour": "white",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": {
+      "title": "The Baptism of the Lord",
+      "colour": "white",
+      "rank": "feast",
+      "rank_num": 2.5,
+      "id": "baptism_of_lord"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-01-11",
+    "season": "christmas",
+    "season_week": 3,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Baptism of the Lord",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.5,
+        "id": "baptism_of_lord"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-01-12",
+    "season": "ordinary",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 1st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-01-13",
+    "season": "ordinary",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 1st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Hilary, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "hilary"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-01-14",
+    "season": "ordinary",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 1st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-01-15",
+    "season": "ordinary",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 1st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-01-16",
+    "season": "ordinary",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 1st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-01-17",
+    "season": "ordinary",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Anthony, Abbot",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "anthony_of_egypt"
+      }
+    ],
+    "vespers": {
+      "title": "2nd Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-01-18",
+    "season": "ordinary",
+    "season_week": 2,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "2nd Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-01-19",
+    "season": "ordinary",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 2nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-01-20",
+    "season": "ordinary",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 2nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Fabian, Pope and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "fabian"
+      },
+      {
+        "title": "Saint Sebastian, Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "sebastian"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-01-21",
+    "season": "ordinary",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Agnes, Virgin and Martyr",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "agnes"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-01-22",
+    "season": "ordinary",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 2nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Day of Prayer for the Legal Protection of Unborn Children",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "unborn_children"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-01-23",
+    "season": "ordinary",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 2nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Vincent, Deacon and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "vincent_deacon"
+      },
+      {
+        "title": "Saint Marianne Cope, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "marianne_cope"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-01-24",
+    "season": "ordinary",
+    "season_week": 2,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Francis de Sales, Bishop and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "francis_de_sales"
+      }
+    ],
+    "vespers": {
+      "title": "3rd Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-01-25",
+    "season": "ordinary",
+    "season_week": 3,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "3rd Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-01-26",
+    "season": "ordinary",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saints Timothy and Titus, Bishops",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "timothy_titus"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-01-27",
+    "season": "ordinary",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 3rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Angela Merici, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "merici"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-01-28",
+    "season": "ordinary",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Thomas Aquinas, Priest and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "aquinas"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-01-29",
+    "season": "ordinary",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 3rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-01-30",
+    "season": "ordinary",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 3rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-01-31",
+    "season": "ordinary",
+    "season_week": 3,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint John Bosco, Priest",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "bosco"
+      }
+    ],
+    "vespers": {
+      "title": "4th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  }
+]

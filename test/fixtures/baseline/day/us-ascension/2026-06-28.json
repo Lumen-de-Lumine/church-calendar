@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-28",
+  "season": "ordinary",
+  "season_week": 13,
+  "cycle": "A",
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "13th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    {
+      "title": "Saints Peter and Paul, Apostles: At the Vigil Mass",
+      "colour": "red",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "peter_paul_vigil"
+    }
+  ],
+  "vespers": {
+    "title": "Saints Peter and Paul, Apostles",
+    "colour": "red",
+    "rank": "solemnity",
+    "rank_num": 1.3,
+    "id": "peter_paul"
+  },
+  "weekday": "sunday"
+}

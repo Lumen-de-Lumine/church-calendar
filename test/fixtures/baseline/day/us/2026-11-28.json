@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-28",
+  "season": "ordinary",
+  "season_week": 34,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "Saturday of the 34th Week in Ordinary Time",
+      "colour": "green",
+      "rank": "ferial",
+      "rank_num": 3.13,
+      "id": null
+    },
+    {
+      "title": "Mass for the Blessed Virgin Mary on Saturday",
+      "colour": "white",
+      "rank": "optional memorial",
+      "rank_num": 3.12,
+      "id": "saturday_memorial_bvm"
+    }
+  ],
+  "vespers": {
+    "title": "1st Sunday of Advent",
+    "colour": "violet",
+    "rank": "Primary liturgical days",
+    "rank_num": 1.2,
+    "id": null
+  },
+  "weekday": "saturday"
+}

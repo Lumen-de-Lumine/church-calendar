@@ -1,0 +1,687 @@
+[
+  {
+    "date": "2026-11-01",
+    "season": "ordinary",
+    "season_week": 31,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "All Saints",
+        "colour": "white",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "all_saints"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-11-02",
+    "season": "ordinary",
+    "season_week": 31,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Commemoration of All the Faithful Departed (All Souls’ Day)",
+        "colour": "violet",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "all_souls"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-11-03",
+    "season": "ordinary",
+    "season_week": 31,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 31st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Martin de Porres, Religious",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "de_porres"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-11-04",
+    "season": "ordinary",
+    "season_week": 31,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Charles Borromeo, Bishop",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "borromeo"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-11-05",
+    "season": "ordinary",
+    "season_week": 31,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 31st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-11-06",
+    "season": "ordinary",
+    "season_week": 31,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 31st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-11-07",
+    "season": "ordinary",
+    "season_week": 31,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 31st Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "32nd Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-11-08",
+    "season": "ordinary",
+    "season_week": 32,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "32nd Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-11-09",
+    "season": "ordinary",
+    "season_week": 32,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Dedication of the Lateran Basilica",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.5,
+        "id": "lateran_basilica"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-11-10",
+    "season": "ordinary",
+    "season_week": 32,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Leo the Great, Pope and Doctor of the Church",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "leo_great"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-11-11",
+    "season": "ordinary",
+    "season_week": 32,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Martin of Tours, Bishop",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "martin"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-11-12",
+    "season": "ordinary",
+    "season_week": 32,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Josaphat, Bishop and Martyr",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "josaphat"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-11-13",
+    "season": "ordinary",
+    "season_week": 32,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Frances Xavier Cabrini, Virgin",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "cabrini"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-11-14",
+    "season": "ordinary",
+    "season_week": 32,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 32nd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "33rd Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-11-15",
+    "season": "ordinary",
+    "season_week": 33,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "33rd Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-11-16",
+    "season": "ordinary",
+    "season_week": 33,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 33rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Margaret of Scotland",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "margaret_of_scotland"
+      },
+      {
+        "title": "Saint Gertrude, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "gertrude"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-11-17",
+    "season": "ordinary",
+    "season_week": 33,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Elizabeth of Hungary, Religious",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "elizabeth_of_hungary"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-11-18",
+    "season": "ordinary",
+    "season_week": 33,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 33rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "The Dedication of the Basilicas of Saints Peter and Paul, Apostles",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "peter_paul_basilicas"
+      },
+      {
+        "title": "Saint Rose Philippine Duchesne, Virgin",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "rose_duchesne"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-11-19",
+    "season": "ordinary",
+    "season_week": 33,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 33rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-11-20",
+    "season": "ordinary",
+    "season_week": 33,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 33rd Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-11-21",
+    "season": "ordinary",
+    "season_week": 33,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Presentation of the Blessed Virgin Mary",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "bvm_presentation"
+      }
+    ],
+    "vespers": {
+      "title": "Our Lord Jesus Christ, King of the Universe",
+      "colour": "white",
+      "rank": "solemnity",
+      "rank_num": 1.3,
+      "id": "christ_king"
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-11-22",
+    "season": "ordinary",
+    "season_week": 34,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Our Lord Jesus Christ, King of the Universe",
+        "colour": "white",
+        "rank": "solemnity",
+        "rank_num": 1.3,
+        "id": "christ_king"
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-11-23",
+    "season": "ordinary",
+    "season_week": 34,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 34th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Clement I, Pope and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "clement_i"
+      },
+      {
+        "title": "Saint Columban, Abbot",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "columban"
+      },
+      {
+        "title": "Blessed Miguel Agustín Pro, Priest and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "miguel_pro"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-11-24",
+    "season": "ordinary",
+    "season_week": 34,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "vietnamese_martyrs"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-11-25",
+    "season": "ordinary",
+    "season_week": 34,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 34th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Catherine of Alexandria, Virgin and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "catherine_of_alexandria"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-11-26",
+    "season": "ordinary",
+    "season_week": 34,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 34th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Thanksgiving Day",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "thanksgiving"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-11-27",
+    "season": "ordinary",
+    "season_week": 34,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 34th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-11-28",
+    "season": "ordinary",
+    "season_week": 34,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 34th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "1st Sunday of Advent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-11-29",
+    "season": "advent",
+    "season_week": 1,
+    "cycle": "B",
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "1st Sunday of Advent",
+        "colour": "violet",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-11-30",
+    "season": "advent",
+    "season_week": 1,
+    "cycle": 1,
+    "cycle_sunday": "B",
+    "cycle_ferial": 1,
+    "celebrations": [
+      {
+        "title": "Saint Andrew, Apostle",
+        "colour": "red",
+        "rank": "feast",
+        "rank_num": 2.7,
+        "id": "andrew"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  }
+]

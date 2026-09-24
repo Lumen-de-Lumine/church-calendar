@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-09",
+  "season": "ordinary",
+  "season_week": 32,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "The Dedication of the Lateran Basilica",
+      "colour": "white",
+      "rank": "feast",
+      "rank_num": 2.5,
+      "id": "lateran_basilica"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}

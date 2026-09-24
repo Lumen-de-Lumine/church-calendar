@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-14",
+  "season": "easter",
+  "season_week": 6,
+  "cycle": 2,
+  "cycle_sunday": "A",
+  "cycle_ferial": 2,
+  "celebrations": [
+    {
+      "title": "The Ascension of the Lord",
+      "colour": "white",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": "ascension"
+    }
+  ],
+  "vespers": null,
+  "weekday": "thursday"
+}

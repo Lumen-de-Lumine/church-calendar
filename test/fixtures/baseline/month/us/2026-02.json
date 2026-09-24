@@ -1,0 +1,614 @@
+[
+  {
+    "date": "2026-02-01",
+    "season": "ordinary",
+    "season_week": 4,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "4th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-02-02",
+    "season": "ordinary",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "The Presentation of the Lord",
+        "colour": "white",
+        "rank": "feast",
+        "rank_num": 2.5,
+        "id": "presentation_of_lord"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-02-03",
+    "season": "ordinary",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 4th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Saint Blaise, Bishop and Martyr",
+        "colour": "red",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "blase"
+      },
+      {
+        "title": "Saint Ansgar, Bishop",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "ansgar"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-02-04",
+    "season": "ordinary",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 4th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-02-05",
+    "season": "ordinary",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Agatha, Virgin and Martyr",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "agatha"
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-02-06",
+    "season": "ordinary",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Paul Miki and Companions, Martyrs",
+        "colour": "red",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "paul_miki"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-02-07",
+    "season": "ordinary",
+    "season_week": 4,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 4th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Mass for the Blessed Virgin Mary on Saturday",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "saturday_memorial_bvm"
+      }
+    ],
+    "vespers": {
+      "title": "5th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-02-08",
+    "season": "ordinary",
+    "season_week": 5,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "5th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-02-09",
+    "season": "ordinary",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 5th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-02-10",
+    "season": "ordinary",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saint Scholastica, Virgin",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "scholastica"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-02-11",
+    "season": "ordinary",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 5th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "Our Lady of Lourdes",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "bvm_lourdes"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-02-12",
+    "season": "ordinary",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 5th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-02-13",
+    "season": "ordinary",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 5th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-02-14",
+    "season": "ordinary",
+    "season_week": 5,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saints Cyril, Monk, and Methodius, Bishop",
+        "colour": "white",
+        "rank": "memorial",
+        "rank_num": 3.1,
+        "id": "cyril_methodius"
+      }
+    ],
+    "vespers": {
+      "title": "6th Sunday in Ordinary Time",
+      "colour": "green",
+      "rank": "Sunday",
+      "rank_num": 2.6,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-02-15",
+    "season": "ordinary",
+    "season_week": 6,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "6th Sunday in Ordinary Time",
+        "colour": "green",
+        "rank": "Sunday",
+        "rank_num": 2.6,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-02-16",
+    "season": "ordinary",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 6th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-02-17",
+    "season": "ordinary",
+    "season_week": 6,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 6th Week in Ordinary Time",
+        "colour": "green",
+        "rank": "ferial",
+        "rank_num": 3.13,
+        "id": null
+      },
+      {
+        "title": "The Seven Holy Founders of the Servite Order",
+        "colour": "white",
+        "rank": "optional memorial",
+        "rank_num": 3.12,
+        "id": "servite_founders"
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-02-18",
+    "season": "lent",
+    "season_week": 0,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Ash Wednesday",
+        "colour": "violet",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": "ash_wednesday"
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-02-19",
+    "season": "lent",
+    "season_week": 0,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday after Ash Wednesday",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-02-20",
+    "season": "lent",
+    "season_week": 0,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday after Ash Wednesday",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-02-21",
+    "season": "lent",
+    "season_week": 0,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday after Ash Wednesday",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      },
+      {
+        "title": "Saint Peter Damian, Bishop and Doctor of the Church",
+        "colour": "violet",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "peter_damian"
+      }
+    ],
+    "vespers": {
+      "title": "1st Sunday of Lent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  },
+  {
+    "date": "2026-02-22",
+    "season": "lent",
+    "season_week": 1,
+    "cycle": "A",
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "1st Sunday of Lent",
+        "colour": "violet",
+        "rank": "Primary liturgical days",
+        "rank_num": 1.2,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "sunday"
+  },
+  {
+    "date": "2026-02-23",
+    "season": "lent",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Monday of the 1st Week of Lent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      },
+      {
+        "title": "Saint Polycarp, Bishop and Martyr",
+        "colour": "violet",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "polycarp"
+      }
+    ],
+    "vespers": null,
+    "weekday": "monday"
+  },
+  {
+    "date": "2026-02-24",
+    "season": "lent",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Tuesday of the 1st Week of Lent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "tuesday"
+  },
+  {
+    "date": "2026-02-25",
+    "season": "lent",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Wednesday of the 1st Week of Lent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "wednesday"
+  },
+  {
+    "date": "2026-02-26",
+    "season": "lent",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Thursday of the 1st Week of Lent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      }
+    ],
+    "vespers": null,
+    "weekday": "thursday"
+  },
+  {
+    "date": "2026-02-27",
+    "season": "lent",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Friday of the 1st Week of Lent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      },
+      {
+        "title": "Saint Gregory of Narek, Abbot and Doctor of the Church",
+        "colour": "violet",
+        "rank": "commemoration",
+        "rank_num": 4,
+        "id": "gregory_narek"
+      }
+    ],
+    "vespers": null,
+    "weekday": "friday"
+  },
+  {
+    "date": "2026-02-28",
+    "season": "lent",
+    "season_week": 1,
+    "cycle": 2,
+    "cycle_sunday": "A",
+    "cycle_ferial": 2,
+    "celebrations": [
+      {
+        "title": "Saturday of the 1st Week of Lent",
+        "colour": "violet",
+        "rank": "ferial",
+        "rank_num": 2.9,
+        "id": null
+      }
+    ],
+    "vespers": {
+      "title": "2nd Sunday of Lent",
+      "colour": "violet",
+      "rank": "Primary liturgical days",
+      "rank_num": 1.2,
+      "id": null
+    },
+    "weekday": "saturday"
+  }
+]

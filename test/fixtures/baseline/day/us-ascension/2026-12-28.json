@@ -1,0 +1,19 @@
+{
+  "date": "2026-12-28",
+  "season": "christmas",
+  "season_week": 1,
+  "cycle": 1,
+  "cycle_sunday": "B",
+  "cycle_ferial": 1,
+  "celebrations": [
+    {
+      "title": "The Holy Innocents, Martyrs",
+      "colour": "red",
+      "rank": "feast",
+      "rank_num": 2.7,
+      "id": "innocents"
+    }
+  ],
+  "vespers": null,
+  "weekday": "monday"
+}
