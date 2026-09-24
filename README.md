@@ -1,4 +1,4 @@
-# church-calendar
+# roman-catholic-church-calendar
 
 A TypeScript library for the Roman Catholic liturgical calendar: the General Roman Calendar plus
 the US and Czech propers, 25 calendars in all. It has **zero runtime dependencies** and also works
@@ -24,9 +24,15 @@ Further reading:
 
 ## Getting started
 
-Requires Node >= 20. The package is not published to npm yet, so build it from source, or install
-it from git (`npm install github:Lumen-de-Lumine/church-calendar`), where the `prepare` script
-builds `dist/`:
+Requires Node >= 22. Install it from npm:
+
+```sh
+npm install roman-catholic-church-calendar
+```
+
+It is an ES module. CommonJS code can `require()` it on Node 22.12+.
+
+To work on it, clone this repository and:
 
 ```sh
 npm install        # devDependencies only; the package itself has NO runtime deps
@@ -40,8 +46,8 @@ npm run build      # -> dist/
 ### As a library (no HTTP at all)
 
 ```ts
-import { CalendarRepository, serializeDay } from 'church-calendar/api';
-import { CalDate, i18n } from 'church-calendar/core';
+import { CalendarRepository, serializeDay } from 'roman-catholic-church-calendar/api';
+import { CalDate, i18n } from 'roman-catholic-church-calendar/core';
 
 const calendars = new CalendarRepository();
 const us = calendars.get('us');
@@ -61,18 +67,19 @@ i18n.withLocale('en', () => {
 from the ambient locale when you read them, but Sunday and ferial titles are fixed in the locale that
 is current when the day is computed. Compute and read inside the same `withLocale`.
 
-In a browser bundle, import only from `church-calendar/core` and `church-calendar/api`. That leaves
-the HTTP layer, the web UI and the Swagger template out of the bundle.
+In a browser bundle, import only from `roman-catholic-church-calendar/core` and
+`roman-catholic-church-calendar/api`. That leaves the HTTP layer, the web UI and the Swagger
+template out of the bundle.
 
 ### As a server
 
 ```sh
-npm run build
-PORT=9292 node bin/server.mjs
+PORT=9292 npx roman-catholic-church-calendar
 ```
 
-The server reads `PORT` (default 9292), `HOST` (default `0.0.0.0`), `LOG=off` and
-`ABSOLUTE_REDIRECTS=1`, and logs one line per request. Or use the container:
+From a clone, `npm run build`, then `PORT=9292 node bin/server.mjs`. The server reads `PORT`
+(default 9292), `HOST` (default `0.0.0.0`), `LOG=off` and `ABSOLUTE_REDIRECTS=1`, and logs one
+line per request. Or use the container:
 
 ```sh
 docker build -t church-calendar:0.1.0 .
@@ -97,7 +104,7 @@ deployment keeps each request in its own invocation.
 ### The HTTP handler, framework-free
 
 ```ts
-import { createHandler } from 'church-calendar/http';
+import { createHandler } from 'roman-catholic-church-calendar/http';
 const handle = createHandler();
 handle({ method: 'GET', path: '/api/v0/en/calendars', query: {}, headers: {} });
 // { status: 200, headers: { 'content-type': ..., 'cache-control': ... }, body: '...' }
@@ -254,6 +261,24 @@ npm run sync-data
 
 Clones elsewhere can be named with `CALENDARIUM_ROMANUM_DIR` and `CHURCH_CALENDAR_API_DIR`.
 
+## Releasing
+
+Commit messages follow [Conventional Commits](https://www.conventionalcommits.org/) with the Angular
+preset. `feat:`, `fix:`, `perf:` and `revert:` commits and `BREAKING CHANGE:` footers go into
+`CHANGELOG.md`. `build:`, `chore:`, `ci:`, `docs:`, `refactor:` and `test:` commits are left out.
+
+To release, run this on an up-to-date `master` with a clean working tree:
+
+```sh
+npm version minor     # or patch, or major
+```
+
+That runs the typecheck and the tests, and stops if either fails. Then it bumps the version,
+regenerates `CHANGELOG.md` from the git history, commits both, tags the commit `vX.Y.Z` and pushes
+the commit and the tag. The tag starts
+[`.github/workflows/publish.yml`](.github/workflows/publish.yml), which runs the typecheck and the
+tests and publishes to npm through npm trusted publishing, with provenance and no stored token.
+
 ## Layout
 
 ```
@@ -266,6 +291,8 @@ bin/server.mjs  standalone server        lambda/handler.mjs  AWS entry point
 scripts/        sync-data.mjs, capture-baseline.mjs
 test/           core/ api/ http/ conformance/ + fixtures/baseline/
 docs/           ARCHITECTURE, BASELINE, QUIRKS
+.github/        ci.yml (tests on master and PRs), publish.yml (npm, on a v* tag),
+                dependabot.yml (keeps the SHA-pinned actions current)
 ```
 
 ## License and credits

@@ -2,7 +2,7 @@
 /**
  * capture-baseline.mjs — capture golden fixtures from a running church-calendar-api (Ruby, v2.7.0).
  *
- * Zero dependencies, Node >= 20 (developed on 24). Writes into test/fixtures/baseline/.
+ * Zero dependencies, Node >= 22 (developed on 24). Writes into test/fixtures/baseline/.
  *
  *   node scripts/capture-baseline.mjs                 # capture missing fixtures from http://localhost:9292
  *   BASE_URL=https://calendar.example.com node ...    # capture from another Ruby 2.7.0 deployment

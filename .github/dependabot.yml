@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # The workflows pin each action to a commit SHA with its version in a comment.
+  # Dependabot bumps both, in one weekly PR for all the actions.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ['*']
+    # `ci:` keeps these commits out of CHANGELOG.md.
+    commit-message:
+      prefix: ci
