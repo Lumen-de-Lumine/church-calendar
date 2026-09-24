@@ -1,6 +1,6 @@
 {
   "name": "roman-catholic-church-calendar",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Roman Catholic liturgical calendar (General Roman Calendar, US and Czech propers) as a zero-dependency TypeScript library and drop-in replacement for the Ruby church-calendar-api v0 JSON API.",
   "keywords": [
     "catholic",
