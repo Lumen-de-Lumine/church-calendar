@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // The framework-agnostic request/response pair every adapter converts to and
 // from. Deliberately plain data: no streams, no Node types, no `Request`.
 

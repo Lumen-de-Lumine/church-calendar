@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: lib/church-calendar.rb + apps/api/v0/entities/*
 //
 // The api layer: everything between `src/core` (the liturgical computation) and

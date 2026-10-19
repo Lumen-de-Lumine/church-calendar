@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/rank.rb
 
 import { i18n } from './i18n.js';

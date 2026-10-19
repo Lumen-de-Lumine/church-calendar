@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // Re-exports of the GENERATED data modules (the modules themselves are produced by
 // scripts/sync-data.mjs and must never be hand-edited).
 

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/temporale/extensions/christ_eternal_priest.rb
 
 import type { CalDate } from '../../cal-date.js';

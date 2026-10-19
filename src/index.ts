@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // roman-catholic-church-calendar — a zero-dependency TypeScript port of the
 // Ruby `church-calendar-api` 2.7.0 service and the `calendarium-romanum`
 // library it stands on.

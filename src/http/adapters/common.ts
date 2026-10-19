@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // Shared request-shaping helpers for the adapters. No Node types here.
 
 import type { HttpRequest, HttpResponse, QueryValue } from '../types.js';

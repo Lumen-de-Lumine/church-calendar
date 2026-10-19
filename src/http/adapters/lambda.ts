@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // AWS Lambda adapter for API Gateway HTTP API (payload format 2.0) and Lambda
 // Function URLs, which share the same event shape. Types are declared here
 // rather than imported from `@types/aws-lambda`, to keep the package dependency-

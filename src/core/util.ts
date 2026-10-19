@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/util.rb
 //
 // `Util::DateParser` is *not* ported: it is only used by the gem's CLI

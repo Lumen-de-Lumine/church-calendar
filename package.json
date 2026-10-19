@@ -12,7 +12,7 @@
     "calendarium-romanum",
     "church-calendar-api"
   ],
-  "license": "LGPL-3.0-or-later",
+  "license": "(MIT AND LGPL-3.0-or-later)",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -58,7 +58,9 @@
     "README.md",
     "CHANGELOG.md",
     "LICENSE",
+    "LICENSE-MIT",
     "COPYING",
+    "COPYING.LESSER",
     "THIRD-PARTY-NOTICES.md"
   ],
   "engines": {

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // Node `http` adapter — what `bin/server.mjs` and the container image use.
 
 import { createServer as createHttpServer } from 'node:http';

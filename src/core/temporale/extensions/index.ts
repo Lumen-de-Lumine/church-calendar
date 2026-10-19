@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/temporale/extensions/*.rb
 //
 // `CalendarRepository#build_temporale_options` looks extensions up by the exact

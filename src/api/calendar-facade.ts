@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: lib/church-calendar/services/calendar_facade.rb
 //
 // `CalendarFacade` is a thin wrapper over a `PerpetualCalendar`: it pins the

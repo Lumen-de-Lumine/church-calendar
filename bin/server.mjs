@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 /**
  * Standalone HTTP server — the drop-in replacement for the Ruby
  * `sourceandsummit/church-calendar-api:2.7.0` container.

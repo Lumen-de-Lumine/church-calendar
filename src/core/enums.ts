@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/enums.rb
 
 import { createEnum } from './enum.js';

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: apps/api/v0/controllers/api_v0.rb
 //
 //     formatter :json, -> (obj, env) { MultiJson.dump(obj, pretty: true) }

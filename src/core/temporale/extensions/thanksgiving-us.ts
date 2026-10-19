@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/temporale/extensions/thanksgiving_us.rb
 
 import { CalDate } from '../../cal-date.js';

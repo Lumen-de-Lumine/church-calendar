@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum.rb — the module's public surface.
 
 export { CalDate, DateRange } from './cal-date.js';

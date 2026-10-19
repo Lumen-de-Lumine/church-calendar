@@ -300,16 +300,27 @@ docs/           ARCHITECTURE, BASELINE, QUIRKS
 This repository is a port of other people's work:
 
 * [calendarium-romanum](https://github.com/igneus/calendarium-romanum) by Jakub Pavlík. Its
-  liturgical logic and sanctorale data are the basis of `src/core/` and `src/data/`. It is
-  dual-licensed: GNU LGPL 3 or MIT, at the licensee's choice.
+  liturgical logic, sanctorale data and locale strings are the basis of `src/core/`,
+  `src/data/sanctorale-files.ts` and `src/data/locales.ts`. It is dual-licensed: GNU LGPL 3 or MIT,
+  at the licensee's choice.
 * [church-calendar-api](https://github.com/igneus/church-calendar-api) by Jakub Pavlík. It is the
-  basis of `src/api/` and `src/http/`, including the web UI, `style.css` and `swagger.yml`. It is
-  licensed under GNU LGPL 3 or later.
+  basis of `src/api/`, `src/http/` (including the web UI, `style.css` and `swagger.yml`) and
+  `src/data/calendars-config.ts`. It is licensed under GNU LGPL 3 or later.
 * The English ordinal tables in `src/api/ordinalize-full.ts` come from
   [ordinalize_full](https://github.com/infertux/ordinalize_full), © Cédric Félizard, MIT (see
   [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md)).
 
-Because `src/api/` and `src/http/` are derived from church-calendar-api, this package is licensed
-under the **GNU Lesser General Public License, version 3 or (at your option) any later version**
-(`LGPL-3.0-or-later`). The LGPL text is in [`LICENSE`](LICENSE), and the GPL it supplements is in
-[`COPYING`](COPYING).
+The package is licensed `MIT AND LGPL-3.0-or-later`, split by path along those lines:
+
+| Part | License | Entry point |
+|---|---|---|
+| Port of calendarium-romanum: `src/core/`, `src/data/sanctorale-files.ts`, `src/data/locales.ts` | **MIT** ([`LICENSE-MIT`](LICENSE-MIT)) | `roman-catholic-church-calendar/core` |
+| Code Source & Summit wrote itself: `src/http/adapters/`, `src/http/types.ts`, `src/http/index.ts`, `src/index.ts`, `src/data/index.ts`, `bin/`, `lambda/`, `scripts/` | **MIT OR LGPL-3.0-or-later**, your choice | — |
+| Port of church-calendar-api, and everything else: `src/api/`, the rest of `src/http/`, `src/data/calendars-config.ts` | **LGPL-3.0-or-later** ([`COPYING.LESSER`](COPYING.LESSER), supplementing the GPL in [`COPYING`](COPYING)) | `roman-catholic-church-calendar`, `/api`, `/http` |
+
+[`LICENSE`](LICENSE) has the full path list. Every source file names its license in an
+`SPDX-License-Identifier` comment on its first line, and `test/licensing.test.ts` fails if a header
+is wrong or if an MIT file imports an LGPL one. So code that imports only
+`roman-catholic-church-calendar/core` (for example, a browser bundle) contains only MIT code. The
+MIT option on our own files covers those files alone: the adapters and barrels import LGPL code, so
+the `.` and `/http` entry points as a whole remain LGPL.

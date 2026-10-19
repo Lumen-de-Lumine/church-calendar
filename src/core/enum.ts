@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/enum.rb
 //
 // Ruby's `Enum` is an abstract class whose subclasses call `values(index_by:)`

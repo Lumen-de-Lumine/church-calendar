@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: (replacement for Ruby stdlib `Date`, which calendarium-romanum uses throughout)
 //
 // The Ruby library computes with `Date` objects: `date + 1`, `date.succ`,

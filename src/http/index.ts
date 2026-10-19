@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // The HTTP layer: one framework-agnostic handler plus four thin adapters.
 
 export { createHandler } from './router.js';

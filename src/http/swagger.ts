@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: apps/web/views/swagger.yml.erb, rendered by
 //       apps/web/controllers/web.rb (`r.is 'swagger.yml'`).
 //

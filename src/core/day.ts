@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/day.rb (both `Day` and `Celebration`)
 
 import type { AbstractDate } from './abstract-date.js';

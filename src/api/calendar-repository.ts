@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: lib/church-calendar/services/calendar_repository.rb
 //
 // The Ruby repository is deliberately stateless: `CalendarRepository#[]` loads

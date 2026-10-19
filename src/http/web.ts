@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: apps/web/controllers/web.rb + apps/web/views/*.haml + public/style.css
 //
 // The Roda web UI, rendered as plain strings. docs/ARCHITECTURE.md says exact

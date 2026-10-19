@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/sanctorale_loader.rb
 
 import { AbstractDate } from './abstract-date.js';

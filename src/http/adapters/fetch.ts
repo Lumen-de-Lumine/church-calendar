@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // WHATWG fetch adapter: `Request -> Response`. Works in Cloudflare Workers,
 // Deno, Bun, a Node 18+ `fetch` server and a Service Worker.
 

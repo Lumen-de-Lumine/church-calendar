@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: the `ordinalize_full` gem, version 1.5.0 (lib/ordinalize_full.rb and
 //       lib/ordinalize_full/locales/*.yml), pulled in by
 //       lib/church-calendar/services/calendar_facade.rb via

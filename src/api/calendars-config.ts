@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: config/calendars.yml + lib/church-calendar/services/calendar_repository.rb
 //       (`CalendarRepository.load_from`, `#metadata`)
 //

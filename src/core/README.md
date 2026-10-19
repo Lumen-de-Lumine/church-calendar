@@ -1,11 +1,18 @@
 # `src/core` — port of calendarium-romanum
 
 TypeScript port of the **Lumen-de-Lumine fork of `calendarium-romanum`, v2.1.0 (`713ebbb`)**, kept
-close enough to the Ruby that the two can be read side by side. Every file starts with a
-`// ruby: <path>` comment, and individual methods carry `ruby:` notes where the translation is not
-obvious.
+close enough to the Ruby that the two can be read side by side. Every file starts with an
+`// SPDX-License-Identifier: MIT` line and a `// ruby: <path>` comment, and individual methods carry
+`ruby:` notes where the translation is not obvious.
 
 Zero runtime dependencies. No `Date` object is used anywhere except inside `CalDate.today()`.
+
+**License: MIT** (calendarium-romanum is "LGPL 3 or MIT"; this port takes MIT, see `LICENSE` and
+`LICENSE-MIT` at the package root). Nothing here may import from `src/api/`, `src/http/` or
+`src/data/calendars-config.ts`, which are, or pull in, LGPL code; `test/licensing.test.ts` enforces
+it. The only files
+outside this directory the core reads are `src/data/sanctorale-files.ts` and `src/data/locales.ts`,
+which are MIT too.
 
 ## Ruby → TypeScript file map
 

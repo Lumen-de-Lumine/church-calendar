@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/sanctorale_factory.rb
 
 import { Sanctorale } from './sanctorale.js';

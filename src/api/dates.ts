@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: apps/api/v0/controllers/api_v0.rb — `parse_date(headers['Date'])` and the
 //       three `Date.parse` calls in the `search` endpoint.
 //

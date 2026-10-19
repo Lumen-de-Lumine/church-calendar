@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/perpetual_calendar.rb
 
 import { Calendar } from './calendar.js';

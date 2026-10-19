@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/data.rb
 //
 // The Ruby `Data::SanctoraleFile` holds a filesystem path; here it holds the

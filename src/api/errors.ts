@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: apps/api/v0/controllers/api_v0.rb (`error!`) + Grape's validation errors
 //
 // Every API error the Ruby stack produces has the same JSON body shape:

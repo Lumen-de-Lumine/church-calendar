@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/calendar.rb
 
 import { CalDate, DateRange } from './cal-date.js';

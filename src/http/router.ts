@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: config.ru (Rack::Cors + Rack::ResponseHeaders + Rack::URLMap),
 //       apps/api/v0/controllers/api_v0.rb (Grape) and
 //       apps/web/controllers/web.rb (Roda).

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/ordinalizer.rb
 //
 // Includes an inlined port of the `roman-numerals` gem's `RomanNumerals.to_roman`

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: the informal "#each_celebration" duck type that Temporale#prepare_solemnities
 //       expects of everything passed in `extensions:`.
 

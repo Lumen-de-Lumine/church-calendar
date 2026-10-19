@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 /**
  * capture-baseline.mjs — capture golden fixtures from a running church-calendar-api (Ruby, v2.7.0).
  *

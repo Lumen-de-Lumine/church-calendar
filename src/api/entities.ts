@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
 // ruby: apps/api/v0/entities/day.rb and apps/api/v0/entities/celebration.rb
 //
 // `Grape::Entity` exposes fields in DECLARATION order, and that order survives

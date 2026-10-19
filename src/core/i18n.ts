@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // ruby: lib/calendarium-romanum/i18n_setup.rb (+ the `i18n` gem, version 0.9.5,
 //       with `I18n::Backend::Fallbacks` mixed in by church-calendar-api's
 //       lib/church-calendar.rb)

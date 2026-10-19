@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT OR LGPL-3.0-or-later
 // Express / NestJS (Express platform) middleware. `express` is NOT imported —
 // the request and response are typed structurally, so this file compiles with
 // zero dependencies and works with any Connect-style stack.
