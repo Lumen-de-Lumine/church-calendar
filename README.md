@@ -13,7 +13,7 @@ It is a faithful port of two Ruby projects, not a redesign:
 | [`church-calendar-api`](https://github.com/Lumen-de-Lumine/church-calendar-api) v2.7.0 (`e1ca5c4`) | Grape JSON API + Roda web UI | `src/api/`, `src/http/` |
 
 Given the same request, the port returns the same response, byte for byte. That includes the Ruby
-service's bugs, apart from six deliberate deviations (see [below](#deviations-from-the-ruby-service)).
+service's bugs, apart from seven deliberate deviations (see [below](#deviations-from-the-ruby-service)).
 
 Further reading:
 
@@ -161,9 +161,9 @@ Every response is compared against golden fixtures captured from the Ruby 2.7.0 
 | `misc/headers.json` | 1 | CORS and cache headers, with and without `Origin`, plus the preflight | 12 | 12 |
 | `misc/web.json` + the two body captures | 3 | the 11 Roda routes, `style.css` byte-identical, `swagger.yml` text | 15 | 15 |
 | byte-level formatting | — | one route per JSON shape | 14 | 14 |
-| deliberate deviations | — | multi-year vigils, no data mutation, no stdout | 11 | 11 |
+| deliberate deviations | — | multi-year vigils, no data mutation, no stdout, Newman | 16 | 16 |
 | `fixtures-sanity` | — | manifest hashes, key order | 4 | 4 |
-| **conformance total** | **868** | **216 326 serialized days compared** | **1 031** | **1 031** |
+| **conformance total** | **868** | **216 326 serialized days compared** | **1 036** | **1 036** |
 
 On top of the conformance suite, `test/core` has 757 tests for the library port, and `test/api` plus
 `test/http` have 247 more: date parsing, ordinal spelling, entities, search, the repository, router
@@ -178,7 +178,7 @@ byte-identical.
 
 ## Deviations from the Ruby service
 
-Everything else is reproduced, bugs included. These six are on purpose:
+Everything else is reproduced, bugs included. These seven are on purpose:
 
 | # | Ruby 2.7.0 | this port | why |
 |---|---|---|---|
@@ -188,6 +188,7 @@ Everything else is reproduced, bugs included. These six are on purpose:
 | 4 | `Date.parse` accepts ISO ordinal/week dates, day-of-year, `--mm-dd`, era names, VMS/JIS forms, year-first `2026 Sep 18`, `2026-09-18Z`, `+2026-09-18` and a year-less `09/18` | those are `400 …does not have a valid value` | no fixture uses them; the implemented subset (which includes JavaScript's `Date#toString()` output) is listed and tested. QUIRKS Q21 |
 | 5 | rack-cors emits `access-control-expose-headers: ""` | not emitted | it does not survive nginx, and the captured headers have no such field. QUIRKS Q30 |
 | 6 | bignum dates serve any year: `/us/30000000000000` is a 200 | a year above 24 660 873 954 865 is a 502 (a 400 where the route parses a date itself) | past `Number.MAX_SAFE_INTEGER` days the date arithmetic is inexact and date loops never end, so one request would hang the process. QUIRKS Q36 |
+| 7 | no Saint John Henry Newman | his optional memorial on 10/9, listed after Saint John Leonardi, in every calendar built on the General Roman Calendar | he was inscribed in it in 2026, after the capture. The conformance suite expects him wherever the capture lists `leonardi`. QUIRKS Q37 |
 
 Two more differences look like deviations but are not:
 

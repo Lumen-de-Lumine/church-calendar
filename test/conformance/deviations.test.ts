@@ -70,6 +70,56 @@ describe('deviation L4 — a multi-year request must NOT duplicate vigils', () =
   });
 });
 
+describe('deviation 7 — Saint John Henry Newman on 10/9 (Q37)', () => {
+  /*
+   * Inscribed in the General Roman Calendar after the 2.7.0 capture. The
+   * conformance suite checks him against every captured Oct 9 through
+   * test/helpers/data-updates.ts; these pin the cases by hand.
+   */
+  const newman = {
+    title: 'Saint John Henry Newman, Priest and Doctor of the Church',
+    colour: 'white',
+    rank: 'optional memorial',
+    rank_num: 3.12,
+    id: 'newman',
+  };
+
+  it('is an optional memorial on a weekday (Monday 2028-10-09)', () => {
+    const days = search('2028-10-09', '2028-10-09');
+    expect(ids(days, '2028-10-09')).toEqual([null, 'denis', 'leonardi', 'newman']);
+    expect(days[0]?.celebrations[3]).toEqual(newman);
+  });
+
+  it('is the same through the api layer the NestJS service embeds', () => {
+    const day = i18n.withLocale('en', () => serializeDay(calendars.get('us').day(new CalDate(2028, 10, 9))));
+    expect(day.celebrations.map((c) => c.id)).toEqual([null, 'denis', 'leonardi', 'newman']);
+    expect(day.celebrations[3]).toEqual(newman);
+  });
+
+  it('precedes the Saturday memorial of the Blessed Virgin Mary (2027-10-09)', () => {
+    expect(ids(search('2027-10-09', '2027-10-09'), '2027-10-09')).toEqual([
+      null, 'denis', 'leonardi', 'newman', 'saturday_memorial_bvm',
+    ]);
+  });
+
+  it('yields to a Sunday (2033-10-09)', () => {
+    expect(ids(search('2033-10-09', '2033-10-09'), '2033-10-09')).toEqual([null]);
+  });
+
+  it('is in every calendar built on the General Roman Calendar', () => {
+    const titles: Record<string, string> = {
+      'general-la': 'S. Ioannis Henrici Newman, presbyteri et Ecclesiae doctoris',
+      'general-it': 'San Giovanni Enrico Newman, sacerdote e dottore della Chiesa',
+      czech: 'Sv. Johna Henryho Newmana, kněze a učitele církve',
+      'us-boston': newman.title,
+    };
+    for (const [cal, title] of Object.entries(titles)) {
+      const day = search('2028-10-09', '2028-10-09', cal)[0];
+      expect(day?.celebrations.find((c) => c.id === 'newman')?.title).toBe(title);
+    }
+  });
+});
+
 describe('the repository and facade never mutate src/data state', () => {
   it('the same date answers identically on the 1st, 2nd and 100th call', () => {
     const facade = calendars.get('us');

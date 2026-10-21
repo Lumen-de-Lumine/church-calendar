@@ -778,3 +778,23 @@ number is not a safe integer. `/us/:year` and `/us/:year/:month` answer 502 for
 such a year (an exception escaping the app, as in Q24); `/us/:year/:month/:day`
 and `search?date=` answer the 400 they give any date that cannot be built. The
 last year `/us/:year` serves is 24 660 873 954 865.
+
+## Q37 — Saint John Henry Newman is on 10/9 — DEVIATION (data)
+
+The Dicastery for Divine Worship inscribed Saint John Henry Newman, Priest and Doctor
+of the Church, in the General Roman Calendar as an optional memorial on 9 October
+(decree published 2026-02-03). The 2.7.0 capture predates it.
+
+`src/data/sanctorale-files.ts` is regenerated from a fork commit (`8f58b0a`, on top of
+`713ebbb`) that adds `9 newman : …` after `9 leonardi` to `universal-en`, `-la`, `-it`,
+`-fr`, `-es` and `czech-cs`, with the titles of upstream igneus/calendarium-romanum@306d6fa.
+`us-en` and the other national calendars inherit him from `universal-en`. Like Teresa of
+Calcutta before him, the line has no effective date, so he appears in every year from 1970.
+
+Newman has the same date, rank (3.12) and colour as Leonardi in every data file, so
+the precedence logic lists him exactly where it lists `leonardi`, immediately after it:
+on weekdays, before `saturday_memorial_bvm` on a Saturday, and not at all on a Sunday.
+The fixtures stay as captured. `test/helpers/data-updates.ts` inserts him after every
+captured `leonardi` before the day comparisons, and cuts him out of the response before
+the `misc/search-queries.json` byte and sha256 checks. `test/conformance/deviations.test.ts`
+pins the weekday, Saturday and Sunday cases.

@@ -6,6 +6,7 @@
  */
 
 import { createHash } from 'node:crypto';
+import { withoutDataUpdates } from '../helpers/data-updates.js';
 import { diffDays, formatDiffs, request } from '../helpers/handler.js';
 import { loadJson, readFixture } from '../helpers/fixtures.js';
 import type { BaselineCalendarDescription, BaselineDay } from '../helpers/fixtures.js';
@@ -269,8 +270,10 @@ describe('conformance: misc/search-queries.json', () => {
     it(`q=${JSON.stringify(entry.q)} -> ${entry.count} day(s)`, () => {
       const response = request(entry.url);
       expect(response.status).toBe(entry.status);
+      // Byte parity holds for everything but the celebrations added since the capture.
+      const body = withoutDataUpdates(response.body);
 
-      const days = JSON.parse(response.body) as BaselineDay[];
+      const days = JSON.parse(body) as BaselineDay[];
       expect(days.map((d) => d.date)).toEqual(entry.dates);
       if (entry.titles !== null) {
         expect(days.map((d) => d.celebrations.map((c) => c.title))).toEqual(entry.titles);
@@ -282,8 +285,8 @@ describe('conformance: misc/search-queries.json', () => {
       }
 
       // Byte parity of the pretty-array-of-compact-objects shape.
-      expect(bytes(response.body)).toBe(entry.bytes);
-      expect(sha256(response.body)).toBe(entry.sha256);
+      expect(bytes(body)).toBe(entry.bytes);
+      expect(sha256(body)).toBe(entry.sha256);
     });
   }
 });

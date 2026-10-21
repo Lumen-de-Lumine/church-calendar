@@ -7,6 +7,7 @@
  * all 25 calendars for 2025-2027) and 6 recorded 502s.
  */
 
+import { withDataUpdates } from '../helpers/data-updates.js';
 import { diffDays, formatDiffs, request } from '../helpers/handler.js';
 import { isErrorFixture, listDaysFixtures, loadJson } from '../helpers/fixtures.js';
 import type { BaselineDay, BaselineErrorFixture } from '../helpers/fixtures.js';
@@ -47,7 +48,7 @@ describe('conformance: days/', () => {
 
           expect(response.status).toBe(200);
           const actual = JSON.parse(response.body) as BaselineDay[];
-          const diffs = diffDays(expected, actual);
+          const diffs = diffDays(withDataUpdates(expected), actual);
           if (diffs.length > 0) {
             throw new Error(formatDiffs(`${cal} ${fixture.year}`, diffs));
           }

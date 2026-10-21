@@ -8,6 +8,7 @@
  *   year/   us 1970-2100                        (`GET /:year`)
  */
 
+import { withDataUpdates, withDataUpdatesDay } from '../helpers/data-updates.js';
 import { diffDay, diffDays, formatDiffs, request } from '../helpers/handler.js';
 import {
   listDayFixtures,
@@ -36,7 +37,7 @@ describe('conformance: lang/', () => {
           `?startDate=${fixture.year}-01-01&endDate=${fixture.year}-12-31`,
       );
       expect(response.status).toBe(200);
-      const diffs = diffDays(expected, JSON.parse(response.body) as BaselineDay[]);
+      const diffs = diffDays(withDataUpdates(expected), JSON.parse(response.body) as BaselineDay[]);
       if (diffs.length > 0) {
         throw new Error(formatDiffs(`${fixture.lang}/${fixture.cal}-${fixture.year}`, diffs));
       }
@@ -58,7 +59,7 @@ describe('conformance: month/', () => {
         `/api/v0/en/calendars/${fixture.cal}/${fixture.year}/${fixture.month}`,
       );
       expect(response.status).toBe(200);
-      const diffs = diffDays(expected, JSON.parse(response.body) as BaselineDay[]);
+      const diffs = diffDays(withDataUpdates(expected), JSON.parse(response.body) as BaselineDay[]);
       if (diffs.length > 0) {
         throw new Error(formatDiffs(fixture.path, diffs));
       }
@@ -79,7 +80,7 @@ describe('conformance: day/', () => {
       const [y, m, d] = fixture.date.split('-').map(Number);
       const response = request(`/api/v0/en/calendars/${fixture.cal}/${y}/${m}/${d}`);
       expect(response.status).toBe(200);
-      const diffs = diffDay(expected, JSON.parse(response.body) as BaselineDay);
+      const diffs = diffDay(withDataUpdatesDay(expected), JSON.parse(response.body) as BaselineDay);
       if (diffs.length > 0) {
         throw new Error(formatDiffs(fixture.path, diffs));
       }
