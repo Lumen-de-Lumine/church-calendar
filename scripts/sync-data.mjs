@@ -19,7 +19,11 @@ import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import yaml from 'js-yaml';
+import { YAML11_SCHEMA, load } from 'js-yaml';
+
+// church-calendar-api reads its YAML with Ruby's Psych, a YAML 1.1 parser; js-yaml 5 defaults to 1.2,
+// which has no `<<` merge keys.
+const loadYaml = (text) => load(text, { schema: YAML11_SCHEMA });
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const PKG = resolve(HERE, '..');
@@ -99,7 +103,7 @@ function buildLocales(sha) {
   const tables = {};
   const locales = [];
   for (const name of names) {
-    const loaded = yaml.load(readFileSync(join(localesDir, name), 'utf8'));
+    const loaded = loadYaml(readFileSync(join(localesDir, name), 'utf8'));
     const keys = Object.keys(loaded);
     if (keys.length !== 1) {
       throw new Error(`${name}: expected exactly one top-level key, got ${keys.join(', ')}`);
@@ -129,9 +133,9 @@ function buildLocales(sha) {
 
 function buildCalendarsConfig(sha) {
   const path = join(API_REPO, 'config', 'calendars.yml');
-  // js-yaml's default schema resolves anchors/aliases and YAML 1.1 `<<` merge keys,
+  // The YAML 1.1 schema resolves anchors/aliases and `<<` merge keys,
   // exactly like Ruby's Psych does for church-calendar-api's CalendarRepository.
-  const config = yaml.load(readFileSync(path, 'utf8'));
+  const config = loadYaml(readFileSync(path, 'utf8'));
   const keys = Object.keys(config); // insertion order == file order; /calendars returns this order
 
   const entries = keys.map((key) => ({ key, config: config[key] }));
