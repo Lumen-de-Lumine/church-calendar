@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/Lumen-de-Lumine/church-calendar/compare/v1.0.0...v1.1.0) (2026-10-21)
+
+### Features
+
+* Add Saint John Henry Newman as an optional memorial on October 9 ([332fd61](https://github.com/Lumen-de-Lumine/church-calendar/commit/332fd6188c4a9887389660524f9f06f044245a3c))
+
 # [1.0.0](https://github.com/Lumen-de-Lumine/church-calendar/compare/v0.1.0...v1.0.0) (2026-10-19)
 
 ### Features
